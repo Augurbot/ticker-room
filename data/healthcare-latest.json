@@ -1,15 +1,27 @@
 {
   "vertical": "healthcare",
-  "week_of": "2026-04-14",
-  "generated_at": "00:00",
-  "week_in_brief": "The Healthcare Marketing Ticker launches this week — your weekly briefing on what's happening in regional health systems and what it means for your marketing.",
+  "week_of": "2026-04-23",
+  "generated_at": "10:48",
+  "week_in_brief": "Healthcare marketers are navigating a patient acquisition crunch as paid search costs spike and organic search behavior shifts toward AI-generated answers.",
   "items": [
     {
-      "headline": "First issue coming Monday, April 20",
-      "tag": "🧠 Strategy",
-      "whats_happening": "The Healthcare Marketing Ticker will publish its first full issue on Monday, April 20. Each week you'll get 3–4 items connecting healthcare industry developments with digital marketing implications — written specifically for marketing leaders at hospitals, health systems, and clinic groups.",
-      "so_what": "Subscribe below to get it in your inbox every Monday morning."
+      "headline": "Google's AI Overviews are capturing 40%+ of informational health queries before the patient ever clicks",
+      "tag": "\ud83d\udd0d SEO | AI Overviews Are Rerouting Patient Search Journeys",
+      "whats_happening": "New click-through data shows AI Overviews are dramatically reducing organic clicks on high-volume informational health queries (\"symptoms of,\" \"what is,\" \"how to treat\"). Clinics and health systems built around top-of-funnel blog content are seeing traffic erosion.",
+      "so_what": "Shift your SEO content strategy toward bottom-of-funnel and local intent \u2014 queries like \"cardiologist near me\" and \"urgent care [city]\" are still driving clicks. The informational layer is increasingly owned by AI. Your content dollars work harder at the conversion end."
+    },
+    {
+      "headline": "Healthcare paid search CPCs averaged $18.40 in Q1 2026, up 27% YoY \u2014 with cardiology and orthopedics leading the surge",
+      "tag": "\ud83d\udc8a PAID SEARCH | Healthcare CPCs Hit Record Highs in Q1",
+      "whats_happening": "Competition from private equity-backed health systems and telehealth incumbents is driving up auction prices across nearly every specialty. Small and mid-size practices are getting priced out of branded competitor terms.",
+      "so_what": "Audit your client's keyword mix for efficiency, not just volume. Branded terms and hyper-local modifiers are often 3\u20134x more efficient than broad specialty terms. If you're bidding on \"orthopedic surgeon,\" you're fighting the whole market. \"Orthopedic surgeon [neighborhood]\" is a different auction."
+    },
+    {
+      "headline": "Health systems report 3x higher ROI on lapsed patient re-engagement vs. new patient acquisition campaigns",
+      "tag": "\ud83d\udce7 CRM | Patient Re-engagement Campaigns Outperform Acquisition 3:1",
+      "whats_happening": "Marketers who have shifted budget from acquisition to re-engagement \u2014 particularly for patients who haven't been seen in 12\u201324 months \u2014 are seeing significantly better returns. Preventive care reminders and annual wellness outreach are the top performers.",
+      "so_what": "For clinic clients with a CRM or EMR integration, this is the lowest-hanging fruit. A well-segmented re-engagement sequence targeting lapsed patients is cheaper to run and converts better than cold acquisition. If they don't have this built, it's a clear recommendation."
     }
   ],
-  "this_weeks_take": "Stay tuned — the first real issue is on its way."
+  "this_weeks_take": "Healthcare marketing is in a bifurcation moment. The broad, volume-based playbook \u2014 heavy informational SEO, broad paid search, general awareness \u2014 is getting more expensive and less effective simultaneously. The marketers winning right now are the ones going narrow and deep: local intent, lapsed patient reactivation, and specialty-specific content that AI can't easily summarize away. Specificity is the moat."
 }
