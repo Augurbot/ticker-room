@@ -1,15 +1,27 @@
 {
   "vertical": "retail",
-  "week_of": "2026-04-14",
-  "generated_at": "00:00",
-  "week_in_brief": "The Retail Marketing Ticker launches this week — your weekly briefing on what's happening in regional retail and what it means for your marketing.",
+  "week_of": "2026-04-23",
+  "generated_at": "10:48",
+  "week_in_brief": "Retailers are doubling down on AI-powered personalization as foot traffic stabilizes and digital-physical integration becomes table stakes for mid-market brands.",
   "items": [
     {
-      "headline": "First issue coming Monday, April 20",
-      "tag": "🧠 Strategy",
-      "whats_happening": "The Retail Marketing Ticker will publish its first full issue on Monday, April 20. Each week you'll get 3–4 items connecting retail industry developments with digital marketing implications — written specifically for marketing leaders at regional chains.",
-      "so_what": "Subscribe below to get it in your inbox every Monday morning."
+      "headline": "AI-driven loyalty programs are converting one-time buyers into regulars at 2x the historical rate",
+      "tag": "\ud83d\uded2 LOYALTY | Personalization Lifts Repeat Purchase Rates",
+      "whats_happening": "Mid-market retailers deploying AI personalization in their loyalty stack are seeing repeat purchase rates climb 18\u201322% YoY, according to new benchmarking data. The lift is concentrated in the 30\u201345 day post-first-purchase window.",
+      "so_what": "If your client's loyalty program is static \u2014 same email cadence, same offers for everyone \u2014 this is the gap. Segmenting by purchase recency and tailoring the re-engagement sequence is table stakes now, not a differentiator."
+    },
+    {
+      "headline": "QR code usage in physical retail has crossed 60% adoption among shoppers under 45",
+      "tag": "\ud83d\udcf1 OMNICHANNEL | In-Store QR Adoption Hits Tipping Point",
+      "whats_happening": "New consumer data shows QR scans in-store are no longer a novelty \u2014 they're expected. Retailers not connecting their physical shelf experience to digital content (reviews, loyalty points, how-to videos) are leaving engagement on the table.",
+      "so_what": "Audit your retail clients' in-store \u2192 digital handoffs. If the QR just goes to the homepage, it's a missed moment. The play is loyalty enrollment or product content \u2014 not brand awareness."
+    },
+    {
+      "headline": "RMN CPMs climbed 34% in Q1 2026 as inventory tightens on Walmart Connect and Kroger Precision Marketing",
+      "tag": "\ud83d\udcb0 PAID MEDIA | Retail Media Networks Squeeze Smaller Brands",
+      "whats_happening": "Demand from national brands is crowding out smaller advertisers on the major retail media networks. Brands with budgets under $50K/month are finding diminishing returns and increasingly pricing into inefficiency.",
+      "so_what": "For clients in this range, the play is shifting budget toward owned channels and Amazon DSP alternatives \u2014 or doubling down on the retailer's organic search (SEO within the retailer ecosystem) rather than fighting for paid placement."
     }
   ],
-  "this_weeks_take": "Stay tuned — the first real issue is on its way."
+  "this_weeks_take": "The middle of retail is getting squeezed from both sides \u2014 AI is raising the bar on what \"good\" personalization looks like, and retail media inflation is making paid visibility more expensive for everyone who isn't a national brand. For mid-market clients, the path forward is investing in owned channels, loyalty depth, and the digital-physical experience. That's where the asymmetric opportunity is right now."
 }
