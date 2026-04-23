@@ -1,15 +1,27 @@
 {
   "vertical": "realestate",
-  "week_of": "2026-04-14",
-  "generated_at": "00:00",
-  "week_in_brief": "The Real Estate Marketing Ticker launches this week — your weekly briefing on what's happening in regional brokerages and what it means for your marketing.",
+  "week_of": "2026-04-23",
+  "generated_at": "10:48",
+  "week_in_brief": "Real estate brokerages are leaning into AI-assisted lead nurturing as inventory constraints keep transaction volumes suppressed and the fight for buyer attention intensifies.",
   "items": [
     {
-      "headline": "First issue coming Monday, April 20",
-      "tag": "🧠 Strategy",
-      "whats_happening": "The Real Estate Marketing Ticker will publish its first full issue on Monday, April 20. Each week you'll get 3–4 items connecting real estate market developments with digital marketing implications — written specifically for marketing leaders at regional brokerages.",
-      "so_what": "Subscribe below to get it in your inbox every Monday morning."
+      "headline": "Brokerages using AI-powered lead response are converting 28% more inquiries into appointments",
+      "tag": "\ud83c\udfe0 LEAD GEN | AI Nurture Sequences Cut Time-to-Contact From Days to Minutes",
+      "whats_happening": "The data is unambiguous: the window between a buyer submitting an inquiry and making contact with an agent is collapsing. Brokerages with AI-assisted instant response \u2014 even just an intelligent first-touch text or email \u2014 are locking in the conversation before competitors can respond.",
+      "so_what": "If your brokerage client is still relying on agents to manually follow up with web leads, they're losing deals to whoever responds first. The floor here is an automated first-touch sequence. The ceiling is a full AI pre-qualification flow that hands warm leads to agents."
+    },
+    {
+      "headline": "Real estate advertisers on Meta are generating buyer leads at $18\u201332 CPL vs. $55\u201380 on Google for equivalent zip codes",
+      "tag": "\ud83d\udcca PAID SOCIAL | Meta Remains the ROI Leader for Buyer Acquisition",
+      "whats_happening": "Despite platform headwinds, Meta's targeting efficiency for real estate buyer acquisition remains significantly better than Google in most markets. The combination of interest-based and lookalike targeting continues to outperform search intent alone for early-funnel buyers.",
+      "so_what": "For clients still over-indexed on Google search, this is a reallocation conversation worth having. A 60/40 Meta/Google split typically outperforms 100% Google for buyer lead volume at the same budget. The caveat: Meta leads require faster and better nurture \u2014 they're higher-volume but lower-intent."
+    },
+    {
+      "headline": "Individual agent content on LinkedIn and Instagram is generating 4\u20136x more local engagement than brokerage brand accounts",
+      "tag": "\ud83d\udd11 BRAND | Agent Personal Branding Is Outperforming Brokerage Brand in Local Markets",
+      "whats_happening": "Buyers and sellers are increasingly choosing agents, not brands. In local markets especially, agent-led content \u2014 market updates, neighborhood guides, behind-the-scenes closings \u2014 is dramatically outperforming generic brokerage content in both reach and engagement.",
+      "so_what": "The opportunity for brokerage clients is to systematize agent content rather than fight it. Build a content toolkit agents can actually use: templated market update videos, neighborhood spotlight formats, social-ready stats. The brokerage wins when the agents win."
     }
   ],
-  "this_weeks_take": "Stay tuned — the first real issue is on its way."
+  "this_weeks_take": "The brokerage market is in a weird spot \u2014 transaction volume is still suppressed, but buyer demand hasn't evaporated, it's just fragmented across more channels and more agents competing for the same leads. The brokerages pulling ahead are the ones who've systematized the lead-to-appointment journey (AI nurture + fast response) and given their agents tools to build personal brand at scale. The ones still waiting for inventory to recover without changing their marketing approach are going to find themselves further behind when the market does loosen."
 }
