@@ -1,15 +1,27 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-04-14",
-  "generated_at": "00:00",
-  "week_in_brief": "The Grocery Marketing Ticker launches this week — your weekly briefing on what's happening in regional grocery and what it means for your marketing.",
+  "week_of": "2026-04-23",
+  "generated_at": "10:48",
+  "week_in_brief": "Grocery marketers are navigating private label surges and retail media saturation as inflation-weary shoppers continue to trade down \u2014 and digital shelf visibility becomes more competitive than ever.",
   "items": [
     {
-      "headline": "First issue coming Monday, April 20",
-      "tag": "🧠 Strategy",
-      "whats_happening": "The Grocery Marketing Ticker will publish its first full issue on Monday, April 20. Each week you'll get 3–4 items connecting grocery industry developments with digital marketing implications — written specifically for marketing leaders at regional and independent grocery chains.",
-      "so_what": "Subscribe below to get it in your inbox every Monday morning."
+      "headline": "Private label unit share reached 22.4% in Q1 2026 \u2014 the highest level since 2001 \u2014 squeezing national brand shelf presence",
+      "tag": "\ud83c\udff7\ufe0f PRIVATE LABEL | Store Brand Share Hits 25-Year High",
+      "whats_happening": "Inflation fatigue is accelerating private label adoption across every grocery category. National brands are losing shelf position not just to private label products but to retailers actively reducing SKU counts to favor their own margins. The squeeze is particularly acute in pantry staples and frozen.",
+      "so_what": "For CPG clients, this is a critical moment to invest in the digital shelf \u2014 if you're not winning on the retailer's search results page, you're invisible. National brand equity still matters in-store, but at the digital point of sale (Instacart, retailer apps, Walmart.com), search visibility is the new shelf placement."
+    },
+    {
+      "headline": "Instacart ROAS benchmarks fell to 3.2x in Q1 2026 from 4.8x in Q1 2025 as advertiser competition increases",
+      "tag": "\ud83d\udcf1 DIGITAL SHELF | Instacart Ads Efficiency Drops as Platform Matures",
+      "whats_happening": "Instacart's advertising platform is maturing and pricing accordingly. As more CPG brands have shifted budget to the platform, auction competition has increased and returns have normalized. The early-mover advantage for grocery advertisers on Instacart is largely gone.",
+      "so_what": "Instacart is still worth being on \u2014 but it requires more sophistication now. Keyword-level optimization, bid stratification by product velocity, and creative testing matter more than they did when the platform was new. Brands treating it as set-and-forget are seeing the worst returns."
+    },
+    {
+      "headline": "Grocers with high app engagement among loyalty members are seeing basket sizes 31% larger than non-app shoppers",
+      "tag": "\ud83d\uded2 LOYALTY | Grocery Apps Drive 31% Higher Basket Size Among Weekly Actives",
+      "whats_happening": "App-engaged loyalty members \u2014 those who open the app at least weekly \u2014 are the highest-value grocery shoppers by virtually every measure: larger baskets, higher frequency, lower churn. Grocers investing in personalized in-app offers and push notifications are seeing outsized returns.",
+      "so_what": "For grocery retail clients, this reframes the app not as a tech project but as a marketing channel. The ROI question isn't \"what does the app cost to maintain?\" \u2014 it's \"what's the lifetime value gap between app-active and non-app loyalty members?\" That's usually a compelling number."
     }
   ],
-  "this_weeks_take": "Stay tuned — the first real issue is on its way."
+  "this_weeks_take": "Grocery marketing is getting harder on two fronts simultaneously: national brands are losing physical shelf presence to private label, and digital shelf competition is intensifying as more brands finally show up to platforms like Instacart. The opportunity is in the middle \u2014 brands that combine strong digital shelf discipline (search-optimized content, smart bidding, fresh creative) with loyalty and app engagement strategy are the ones who can weather the trade-down pressure. The brands treating digital as an afterthought are getting squeezed from every direction."
 }
