@@ -1,27 +1,33 @@
 {
   "vertical": "healthcare",
-  "week_of": "2026-04-23",
-  "generated_at": "10:48",
-  "week_in_brief": "Healthcare marketers are navigating a patient acquisition crunch as paid search costs spike and organic search behavior shifts toward AI-generated answers.",
+  "week_of": "2026-04-27",
+  "generated_at": "05:00",
+  "week_in_brief": "The discovery channel shifted, the compliance floor rose, and the economics of patient acquisition forced a reckoning with retention.",
   "items": [
     {
-      "headline": "Google's AI Overviews are capturing 40%+ of informational health queries before the patient ever clicks",
-      "tag": "\ud83d\udd0d SEO | AI Overviews Are Rerouting Patient Search Journeys",
-      "whats_happening": "New click-through data shows AI Overviews are dramatically reducing organic clicks on high-volume informational health queries (\"symptoms of,\" \"what is,\" \"how to treat\"). Clinics and health systems built around top-of-funnel blog content are seeing traffic erosion.",
-      "so_what": "Shift your SEO content strategy toward bottom-of-funnel and local intent \u2014 queries like \"cardiologist near me\" and \"urgent care [city]\" are still driving clicks. The informational layer is increasingly owned by AI. Your content dollars work harder at the conversion end."
+      "headline": "AI Overviews Now Answer 40% of Health Queries",
+      "tag": "🏥 Care Delivery Shift",
+      "whats_happening": "Google AI Overviews and similar AI summaries are answering roughly 40% of informational health queries without requiring a click to any website—projected to reach 85-90% by end of 2027. Meanwhile, LinkedIn ranks as the second most-cited domain in AI-generated answers across ChatGPT, Google AI Mode, and Perplexity, introducing a new metric called \"Share of Model\"—how often AI tools recommend your brand when users ask questions in your category. HubSpot reports organic search traffic down 27% year-over-year, while AI-driven leads convert at three times the rate of traditional search traffic.",
+      "so_what": "Your brand narrative is being shaped inside AI systems before prospects reach your website. The new priority isn't ranking #1 in blue links—it's being cited inside AI summaries. That requires MedicalBusiness schema markup, clinician bylines with visible credentials, structured content formatted as quotable answers, and original LinkedIn thought leadership from your clinical leaders. Hospitals optimizing for AI citation in 2026 will have compounding visibility advantages by 2028."
     },
     {
-      "headline": "Healthcare paid search CPCs averaged $18.40 in Q1 2026, up 27% YoY \u2014 with cardiology and orthopedics leading the surge",
-      "tag": "\ud83d\udc8a PAID SEARCH | Healthcare CPCs Hit Record Highs in Q1",
-      "whats_happening": "Competition from private equity-backed health systems and telehealth incumbents is driving up auction prices across nearly every specialty. Small and mid-size practices are getting priced out of branded competitor terms.",
-      "so_what": "Audit your client's keyword mix for efficiency, not just volume. Branded terms and hyper-local modifiers are often 3\u20134x more efficient than broad specialty terms. If you're bidding on \"orthopedic surgeon,\" you're fighting the whole market. \"Orthopedic surgeon [neighborhood]\" is a different auction."
+      "headline": "Meta Kills DMA Targeting as OCR Escalates Pixel Enforcement",
+      "tag": "📊 Data & Measurement",
+      "whats_happening": "Meta discontinued Nielsen DMA targeting effective June 22, 2026—a primary tool for geographic precision in regional healthcare campaigns. At the same time, HHS Office for Civil Rights enforcement on marketing tracking pixels is accelerating, with weekly settlements involving Meta Pixel and Google Analytics on pages handling patient information. The compliant path requires server-side tracking, HIPAA-compliant conversion APIs with Business Associate Agreements, and removal of PHI from URLs and form fields.",
+      "so_what": "You have eight weeks to audit every DMA-dependent campaign and migrate to alternative geographic or audience-based targeting before Meta cuts you off. Simultaneously, if you're still running default browser pixels on appointment pages or symptom checkers, you're facing escalating regulatory risk. The winning move: combine the DMA migration deadline with a full server-side tracking overhaul. Early movers see cleaner attribution and lower cost-per-lead; laggards face enforcement risk and broken campaigns."
     },
     {
-      "headline": "Health systems report 3x higher ROI on lapsed patient re-engagement vs. new patient acquisition campaigns",
-      "tag": "\ud83d\udce7 CRM | Patient Re-engagement Campaigns Outperform Acquisition 3:1",
-      "whats_happening": "Marketers who have shifted budget from acquisition to re-engagement \u2014 particularly for patients who haven't been seen in 12\u201324 months \u2014 are seeing significantly better returns. Preventive care reminders and annual wellness outreach are the top performers.",
-      "so_what": "For clinic clients with a CRM or EMR integration, this is the lowest-hanging fruit. A well-segmented re-engagement sequence targeting lapsed patients is cheaper to run and converts better than cold acquisition. If they don't have this built, it's a clear recommendation."
+      "headline": "Patient Acquisition Costs Rising While Retention Remains 5-15x Cheaper",
+      "tag": "🧠 Strategy",
+      "whats_happening": "Patient acquisition costs are inflating across nearly every specialty (primary care projected to reach $95-$485 by 2028). Retaining an existing patient costs 5x to 15x less than acquiring a new one. Email marketing delivers $35-$42 per $1 spent in healthcare; dormant patient reactivation campaigns recover 12-22% of lapsed patients. Yet most hospital systems still allocate marketing budgets toward acquisition. Atlantic Health deployed AI agents to automate colonoscopy prep outreach—contacting patients one week before procedures to confirm, review materials, and answer questions—cutting no-shows 30-45%.",
+      "so_what": "The economics are unambiguous. If you're running fewer than eight automated patient communication sequences (post-visit review requests, appointment reminders, reactivation flows, seasonal care prompts), you're systematically underinvesting in your highest-ROI channel. AI agents are no longer experimental—they're becoming standard infrastructure. Systems implementing these workflows in 2026 will have cost and engagement advantages over those treating them as future pilots."
+    },
+    {
+      "headline": "Call Tracking Reveals True PAC is 4-6x Lower Than Reported",
+      "tag": "📱 Channel Update",
+      "whats_happening": "Healthcare organizations implementing HIPAA-compliant call tracking typically discover their true patient acquisition cost is 4x to 6x lower than reported cost-per-lead, because phone calls convert 10-15x as much revenue as web forms. Yet most systems still optimize paid media around form fills, systematically underinvesting in the highest-converting channel. Only 25-35% of mid-market health systems have compliant call tracking in place. Separately, practices marketing telehealth as a patient acquisition funnel (rather than backup service) see 30-60% of new patient volume flowing through virtual-first entry points, because barrier-to-entry is lower and conversion to in-person follow-up becomes easier.",
+      "so_what": "You're likely optimizing for the wrong conversion event. Shifting paid media optimization toward call attribution unlocks 20-35% cost-per-acquisition reductions versus 2025 baselines. The compliant approach: call tracking provider with BAA, dynamic number insertion configured to avoid PHI transmission, HIPAA-compliant call recording storage, and CRM integration. Pair this with telehealth-first marketing infrastructure—dedicated landing pages, separate booking flows, telehealth-specific paid search campaigns—and you'll capture patient volume competitors are missing entirely."
     }
   ],
-  "this_weeks_take": "Healthcare marketing is in a bifurcation moment. The broad, volume-based playbook \u2014 heavy informational SEO, broad paid search, general awareness \u2014 is getting more expensive and less effective simultaneously. The marketers winning right now are the ones going narrow and deep: local intent, lapsed patient reactivation, and specialty-specific content that AI can't easily summarize away. Specificity is the moat."
+  "this_weeks_take": "Discovery moved to AI platforms. Compliance floors rose. Acquisition costs climbed while retention infrastructure stayed optional. The systems that win in 2027 are the ones rebuilding measurement, compliance, and retention workflows right now—not waiting for federal clarity or platform stability."
 }
