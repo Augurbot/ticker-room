@@ -1,27 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-04-23",
-  "generated_at": "10:48",
-  "week_in_brief": "Grocery marketers are navigating private label surges and retail media saturation as inflation-weary shoppers continue to trade down \u2014 and digital shelf visibility becomes more competitive than ever.",
+  "week_of": "2026-04-27",
+  "generated_at": "05:20",
+  "week_in_brief": "The grocery middle ground is eroding—and AI is the new front door.",
   "items": [
     {
-      "headline": "Private label unit share reached 22.4% in Q1 2026 \u2014 the highest level since 2001 \u2014 squeezing national brand shelf presence",
-      "tag": "\ud83c\udff7\ufe0f PRIVATE LABEL | Store Brand Share Hits 25-Year High",
-      "whats_happening": "Inflation fatigue is accelerating private label adoption across every grocery category. National brands are losing shelf position not just to private label products but to retailers actively reducing SKU counts to favor their own margins. The squeeze is particularly acute in pantry staples and frozen.",
-      "so_what": "For CPG clients, this is a critical moment to invest in the digital shelf \u2014 if you're not winning on the retailer's search results page, you're invisible. National brand equity still matters in-store, but at the digital point of sale (Instacart, retailer apps, Walmart.com), search visibility is the new shelf placement."
+      "headline": "Specialty and discount grocers win; traditional supermarkets lose share across all income levels",
+      "tag": "🛒 Shopper Shift",
+      "whats_happening": "Trader Joe's, Whole Foods, and Sprouts are outperforming the sector while Publix and Safeway lose ground across every income bracket, according to Consumer Edge data. Trader Joe's grew 3% while overall grocery spending fell 3%, with a 35% customer retention rate. The takeaway: shoppers aren't just cutting back—they're choosing retailers with a clear identity (hard-discount value or curated experience). Regional grocers positioned in the middle are feeling the squeeze.",
+      "so_what": "If your brand isn't answering \"why shop here instead of everywhere else?\" with clarity, you're vulnerable. Distinctivenessèwhether it's local sourcing, clean ingredients, or community ties—needs to show up in every touchpoint, not just on the wall above produce."
     },
     {
-      "headline": "Instacart ROAS benchmarks fell to 3.2x in Q1 2026 from 4.8x in Q1 2025 as advertiser competition increases",
-      "tag": "\ud83d\udcf1 DIGITAL SHELF | Instacart Ads Efficiency Drops as Platform Matures",
-      "whats_happening": "Instacart's advertising platform is maturing and pricing accordingly. As more CPG brands have shifted budget to the platform, auction competition has increased and returns have normalized. The early-mover advantage for grocery advertisers on Instacart is largely gone.",
-      "so_what": "Instacart is still worth being on \u2014 but it requires more sophistication now. Keyword-level optimization, bid stratification by product velocity, and creative testing matter more than they did when the platform was new. Brands treating it as set-and-forget are seeing the worst returns."
+      "headline": "AI-driven shopping is mainstream; Instacart now lives inside Claude",
+      "tag": "�1 Channel Update",
+      "whats_happening": "Instacart integrated directly into Claude AI this week, joining ChatGPT as a conversational shopping platform. A third of grocery shoppers now use generative AI to research products; 11% have delegated purchases to AI agents. E-commerce contributed 70% of grocery sales growth last year and hit $325B, with 94% of households shopping both online and in-store. TikTok Shop grocery sales jumped 90% year-over-year.",
+      "so_what": "Discovery no longer starts in your store or on your website—it starts in a chat window or an AI-powered list builder. If your product data, reviews, and inventory aren't clean and accessible to AI platforms, you're invisible in the fastest-growing channel."
     },
     {
-      "headline": "Grocers with high app engagement among loyalty members are seeing basket sizes 31% larger than non-app shoppers",
-      "tag": "\ud83d\uded2 LOYALTY | Grocery Apps Drive 31% Higher Basket Size Among Weekly Actives",
-      "whats_happening": "App-engaged loyalty members \u2014 those who open the app at least weekly \u2014 are the highest-value grocery shoppers by virtually every measure: larger baskets, higher frequency, lower churn. Grocers investing in personalized in-app offers and push notifications are seeing outsized returns.",
-      "so_what": "For grocery retail clients, this reframes the app not as a tech project but as a marketing channel. The ROI question isn't \"what does the app cost to maintain?\" \u2014 it's \"what's the lifetime value gap between app-active and non-app loyalty members?\" That's usually a compelling number."
+      "headline": "Aldi removes 44 artificial ingredients from private label; clean transparency is now table stakes",
+      "tag": "🧠 Strategy",
+      "whats_happening": "Aldi is expanding its banned-ingredient list from 13 to 57 (including titanium dioxide, bromated flour, and artificial sweeteners) across private-label products by December 2027. This follows Walmart's similar move and reflects rising shopper expectations around ingredient simplicity. Independent grocers and co-ops are gaining ground by leaning into local, organic, and fair-trade categories—shoppers are prioritizing values and community over convenience.",
+      "so_what": "Clean-label private brands are no longer a specialty play�they're a competitive requirement. If your rouse brands don't signal transparency and quality, you're ceding share to retailers who do. Community narratives tied to sourcing and ingredient ethics resonate, especially among mid- and high-income shoppers."
+    },
+    {
+      "headline": "Google search volatility hits 9.5/10; being findable means being everywhere AI looks",
+      "tag": "📊 Data & Measurement",
+      "whats_happening": "Google search ranking volatility spiked to 9.5 out of 10 on April 23—the highest reading of 2026. Home services verticals took the biggest hit. Meanwhile, LinkedIn became the second most-cited domain in AI-generated answers across ChatGPT, Google AI Mode, and Perplexity. A new metric called \"Share of Model\" measures how often AI tools recommend your brand when users ask questions in your category. HubSpot reported organic search traffic down 27% year-over-year, but leads from AI platforms convert at 3X the rate of traditional search.",
+      "so_what": "Your visibility strategy can't rely on Google rankings alone. Teams need to know where their brand shows up in AI answers—and how often competitors are mentioned instead. If you're not tracking Share of Model alongside traditional SEO metrics, you're flying blind."
     }
   ],
-  "this_weeks_take": "Grocery marketing is getting harder on two fronts simultaneously: national brands are losing physical shelf presence to private label, and digital shelf competition is intensifying as more brands finally show up to platforms like Instacart. The opportunity is in the middle \u2014 brands that combine strong digital shelf discipline (search-optimized content, smart bidding, fresh creative) with loyalty and app engagement strategy are the ones who can weather the trade-down pressure. The brands treating digital as an afterthought are getting squeezed from every direction."
+  "this_weeks_take": "The grocery industry is splitting into two camps: retailers with a clear identity and everyone else. If your brand isn't distinct—on values, ingredients, experience, or community—shoppers will choose someone who is. And if you're not discoverable where AI platforms are sending them, you won't get the chance to compete."
 }
