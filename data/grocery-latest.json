@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-04-27",
+  "week_of": "2026-05-04",
   "generated_at": "05:20",
-  "week_in_brief": "The grocery middle ground is eroding—and AI is the new front door.",
+  "week_in_brief": "The delivery moment and the decision moment are splitting apart\u2014and AI is accelerating the gap.",
   "items": [
     {
-      "headline": "Specialty and discount grocers win; traditional supermarkets lose share across all income levels",
-      "tag": "🛒 Shopper Shift",
-      "whats_happening": "Trader Joe's, Whole Foods, and Sprouts are outperforming the sector while Publix and Safeway lose ground across every income bracket, according to Consumer Edge data. Trader Joe's grew 3% while overall grocery spending fell 3%, with a 35% customer retention rate. The takeaway: shoppers aren't just cutting back—they're choosing retailers with a clear identity (hard-discount value or curated experience). Regional grocers positioned in the middle are feeling the squeeze.",
-      "so_what": "If your brand isn't answering \"why shop here instead of everywhere else?\" with clarity, you're vulnerable. Distinctivenessèwhether it's local sourcing, clean ingredients, or community ties—needs to show up in every touchpoint, not just on the wall above produce."
+      "headline": "Speed Beats Breadth When Shoppers Order Online",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "FMI research shows delivery speed is now more damaging to conversion and loyalty than it was a year ago, while DoorDash is signing regional grocers (Brookshire, Harps, Market of Choice) to expand marketplace selection. Meanwhile, shoppers are using online for planned stock-ups (65% cite time savings) but returning to stores when they want control over product selection and to avoid delivery fees.",
+      "so_what": "If your delivery isn't within 1-2 hours, you're losing margin to DoorDash partnerships or ceding baskets entirely. Speed is the new table stakes\u2014breadth of selection matters less than fulfillment reliability."
     },
     {
-      "headline": "AI-driven shopping is mainstream; Instacart now lives inside Claude",
-      "tag": "�1 Channel Update",
-      "whats_happening": "Instacart integrated directly into Claude AI this week, joining ChatGPT as a conversational shopping platform. A third of grocery shoppers now use generative AI to research products; 11% have delegated purchases to AI agents. E-commerce contributed 70% of grocery sales growth last year and hit $325B, with 94% of households shopping both online and in-store. TikTok Shop grocery sales jumped 90% year-over-year.",
-      "so_what": "Discovery no longer starts in your store or on your website—it starts in a chat window or an AI-powered list builder. If your product data, reviews, and inventory aren't clean and accessible to AI platforms, you're invisible in the fastest-growing channel."
+      "headline": "Phone-in-Store Behavior Requires Marketing That Bridges Both Worlds",
+      "tag": "\ud83d\uded2 Shopper Shift",
+      "whats_happening": "Kroger research reveals 80% of omnichannel shoppers use their phones while shopping in-store for coupons, lists, and navigation. 39% discover products online then buy in-store; 34% do the reverse. Meanwhile, Google search ads are shifting away from keyword logic toward intent-based targeting that rewards creative relevance and message-match between ad copy and landing pages.",
+      "so_what": "Your store marketing and digital campaigns are no longer separate channels\u2014they're one blended journey. Weak landing pages or generic ad copy get punished faster now. Align in-store signage, digital coupons, and paid search messaging so shoppers experience consistency across every touch:ctage."
     },
     {
-      "headline": "Aldi removes 44 artificial ingredients from private label; clean transparency is now table stakes",
-      "tag": "🧠 Strategy",
-      "whats_happening": "Aldi is expanding its banned-ingredient list from 13 to 57 (including titanium dioxide, bromated flour, and artificial sweeteners) across private-label products by December 2027. This follows Walmart's similar move and reflects rising shopper expectations around ingredient simplicity. Independent grocers and co-ops are gaining ground by leaning into local, organic, and fair-trade categories—shoppers are prioritizing values and community over convenience.",
-      "so_what": "Clean-label private brands are no longer a specialty play�they're a competitive requirement. If your rouse brands don't signal transparency and quality, you're ceding share to retailers who do. Community narratives tied to sourcing and ingredient ethics resonate, especially among mid- and high-income shoppers."
+      "headline": "S8AP PUocy Changes Are Driving Brand Switching at 2x the National Rate",
+      "tag": "\ud83d\udcca Data & Measurement",
+      "whats_happening": "Ibotta analysis of SNAP purchases in five states with new federal waivers shows sugary beverage and candy purchases dropped 15-19.5\u2014roughly 2x the national rate. More critically, 60% of SNAP shoppers say they'd trade down to private label if their preferred national brand loses SNAP eligibility. Meanwhile, retail media platforms (Amazon, Walmart, grocery apps) are capturing budget share from Google and Meta because they own transaction data and operate in closed-loop systems with logged-in users.",
+      "so_what": "SPAP system is now a material lever for private label growth and brand switching. If you're a regional grocer, this is your moment to promote store brands to value-conscious shoppers. If you're a CPG partner, test price points and pack sizes now before larger states follow suit\u2014and shift ad spend into retail media channels where you can measure impact directly."
     },
     {
-      "headline": "Google search volatility hits 9.5/10; being findable means being everywhere AI looks",
-      "tag": "📊 Data & Measurement",
-      "whats_happening": "Google search ranking volatility spiked to 9.5 out of 10 on April 23—the highest reading of 2026. Home services verticals took the biggest hit. Meanwhile, LinkedIn became the second most-cited domain in AI-generated answers across ChatGPT, Google AI Mode, and Perplexity. A new metric called \"Share of Model\" measures how often AI tools recommend your brand when users ask questions in your category. HubSpot reported organic search traffic down 27% year-over-year, but leads from AI platforms convert at 3X the rate of traditional search.",
-      "so_what": "Your visibility strategy can't rely on Google rankings alone. Teams need to know where their brand shows up in AI answers—and how often competitors are mentioned instead. If you're not tracking Share of Model alongside traditional SEO metrics, you're flying blind."
+      "headline": "AI-Powered Martech Is Moving from Recommendations into Autonomous Execution",
+      "tag": "\ud83e\udd16 AI & Tools",
+      "whats_happening": "This week's martech releases show AI agents expanding beyond reporting into autonomous execution: adMarketplace is placing ads directly in AI search results, Braze is automating campaign orchestration across channels, and tools like Conductor are tracking brand visibility in AI-generated answers. Meanwhile, 64% of shoppers are now familiar with generative AI, and 56% have used it for food-related tasks. Agentic shopping\u2014AI agents making purchase decisions for users\u2014is emerging.",
+      "so_what": "Your marketing stack is consolidating from many single-purpose tools into fewer, more agentic platforms. Before adding another tool, audit the data foundation\u2014first-party data activation, customer identity resolution, and cross-channel attribution are the competitive advantages now. And if your brand isn't showing up in ChatGPT or Gemini responses when shoppers ask for meal ideas or shopping lists, you're invisible to the next wave of demand."
     }
   ],
-  "this_weeks_take": "The grocery industry is splitting into two camps: retailers with a clear identity and everyone else. If your brand isn't distinct—on values, ingredients, experience, or community—shoppers will choose someone who is. And if you're not discoverable where AI platforms are sending them, you won't get the chance to compete."
+  "this_weeks_take": "The grocery industry is splitting into two games: competing for the delivery moment (speed, convenience, AI agents) and competing for the store moment (control, discovery, phone-in-hand). Regional grocers who win will stop treating online and in-store as separate channels and start building one seamless, mobile-first journey. The shoppers are already there."
 }
