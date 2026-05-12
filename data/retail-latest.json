@@ -1,33 +1,33 @@
 {
   "vertical": "retail",
-  "week_of": "2026-05-04",
-  "generated_at": "04:50",
-  "week_in_brief": "A week for rewarding the right behavior, not just the purchase \u2014 and giving your staff the tools to keep pace with shoppers who now expect instant answers.",
+  "week_of": "2026-05-12",
+  "generated_at": "16:19",
+  "week_in_brief": "Supply chains are being rebuilt, ad platforms are automating themselves, and your shoppers are splitting their loyalty three ways \u2014 this was a week for making structural decisions before someone else makes them for you.",
   "items": [
     {
-      "headline": "Google Stopped Caring About Your Keywords \u2014 Your Loyalty Program Still Does",
+      "headline": "META'S AUTOMATION DEADLINE IS NOW YOUR TEST Window",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "Meta is targeting full ad automation by end of 2026, where brands supply a product image and a budget and AI handles targeting, creative, copy, and optimization. Search Engine Journal reported that Advantage+ campaigns are already moving this direction, with human controls becoming increasingly optional. For regional multi-location operators, this isn\u2019t just an efficiency story \u2014 it\u2019s a local relevance story. When automation flattens creative and targeting, the brand that knows its markets best has the most to lose.",
+      "so_what": "Run Advantage+ campaigns now while the comparison data is still yours to collect. When the transition becomes default, your ability to see what the AI is and isn\u2019t getting right about your specific markets disappears with it."
+    },
+    {
+      "headline": "SUPPLY CHAIN VOLATILITY JUST BECAME A MARKETING PROBLEM",
       "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Google's paid search platform is moving away from strict keyword bidding toward intent and creative relevance. At the same time, the strongest retail loyalty programs \u2014 airlines, casinos, hospitality \u2014 are designed to reward behavioral change (repeat visits, cross-category purchases, status progression) rather than just transactions. Both shifts point to the same reality: you can't buy relevance with volume anymore; you have to design for it.",
-      "so_what": "Audit whether your loyalty program rewards frequency or just spending, and whether your paid search campaigns rely on generic ad copy and weak landing pages. In both cases, the winners are the ones who connect the dots across touchpoints and guide customers through intentional journeys."
+      "whats_happening": "Chain Store Age reports regional retailers actively restructuring supply chains to reduce import dependence and buffer tariff exposure \u2014 and that the downstream effect on marketing is significant. Promotional calendars, seasonal campaigns, and inventory-driven messaging all break when availability becomes unpredictable. This is also the week Google announced GeoX updates, a geo-based incrementality tool that lets multi-location operators measure real campaign lift market-by-market without requiring a large holdout experiment.",
+      "so_what": "Build flex points into your Q3 and Q4 campaign calendar now, before you\u2019re reacting mid-flight. And if you\u2019re running the same message across all your locations without testing what\u2019s actually moving the needle by market, GeoX-style thinking is worth your time \u2014 especially when your inventory isn\u2019t uniform."
     },
     {
-      "headline": "Ace Hardware Gave Store Associates an AI Assistant \u2014 And Shoppers Are Still Choosing Human Help",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "Ace Hardware deployed Hey ARMA, an AI-powered assistant that gives red-vested associates instant access to product details, project guidance, and recommendations while on the floor. It's now live in 2,300+ stores. Meanwhile, Samsung research shows 68% of shoppers still prefer human interaction over AI \u2014 but only if that human has the information they need, right when they need it. Mobile devices and AI tools aren't replacing staff; they're making them faster and more confident.",
-      "so_what": "If your associates are walking customers to a kiosk or a back office to look something up, you're losing conversions. Equipping staff with mobile tools that provide instant inventory visibility and product intelligence is a low-risk investment with measurable ROI in basket size and customer experience. The hardware chain figured it out \u2014 so can you."
-    },
-    {
-      "headline": "Consumers Are Trading Down \u2014 But They're Paying Up for Loyalty Programs That Show Progress",
-      "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "Financial pressure is reshaping spending behavior: shoppers are buying less, switching to private label, and gravitating toward retailers with visible value (not just discounts). At the same time, 79% of consumers are enrolled in at least one paid loyalty program, and 81% say they're motivated by seeing their progress toward rewards \u2014 the tier, the gap, the milestone. The contradiction is clarifying: people will cut spending everywhere except the programs that make them feel invested.",
-      "so_what": "Free loyalty programs with birthday coupons and generic point-stacking aren't retaining customers in this environment. Paid membership with visible progression, member-only pricing, and status recognition is. If your program doesn't give customers a reason to come back beyond saving a few dollars, it's not a loyalty program \u2014 it's a coupon delivery system."
-    },
-    {
-      "headline": "Retail Media Teams Are Finally Talking to Merchandising \u2014 And It's Paying Off",
+      "headline": "YOUR SHOPPERS ARE DATING AROUND \u2014 FRICTION IS THE PROBLEM",
       "tag": "\ud83d\uded2 Retail Shift",
-      "whats_happening": "Ace Hardware's retail media network launched with one non-negotiable requirement: merchandising and media teams had to move together from day one. Most retail media operations remain siloed \u2014 media sells ads, merchants manage inventory, and neither fully trusts the other's priorities. Ace's approach was to prove business impact first (real-time, measurable results), which earned merchant buy-in without forcing org chart surgery. The lesson: alignment isn't a process change; it's a proof-of-value change.",
-      "so_what": "If you're building or operating a retail media network, your media team and your merchandising team need to share goals, data, and decision-making. If they're not already in the same room, start there. Proof beats politics."
+      "whats_happening": "A LendingTree 2026 survey found consumers increasingly building lists, collecting coupons, and splitting shopping trips across multiple stores to manage inflation. This multi-store behavior erodes the habitual repeat visit that regional chains depend on. Separately, wallet-based loyalty platform Passtastic crossed 400,000 digital passes globally \u2014 delivering loyalty programs through Apple Wallet and Google Wallet, no standalone app download required.",
+      "so_what": "If your loyalty program requires an app download, you\u2019re filtering out exactly the price-sensitive, already-fragmented shopper you most need to recapture. Wallet-based passes have meaningfully lower adoption friction \u2014 worth a hard look before you invest in a full program redesign."
+    },
+    {
+      "headline": "YOUR STACK IS BROKEN AND AI JUST NOTICED",
+      "tag": "\ud83d\udcca Data & Measurement",
+      "whats_happening": "The 2026 State of Martech report counted 15,505 marketing technology products \u2014 up just 121 from last year. The growth era is over. The real finding, per CMSWire: AI is surfacing integration gaps, underused tools, and data quality problems that were previously papered over by new platform launches. This lands differently in retail, where Gartner data shows global retail tech spending hitting $388 billion with AI investments growing 25% annually \u2014 but most of it concentrated at large-format operators.",
+      "so_what": "The gap between enterprise retail AI capability and regional operator capability is widening, but the entry cost for practical tools has dropped. The bottleneck isn\u2019t the tool \u2014 it\u2019s whether your data infrastructure is clean enough to make any AI useful. That\u2019s the audit worth doing now."
     }
   ],
-  "this_weeks_take": "The thread running through all of this: relevance is designed, not bought. Whether you're bidding on search ads, running a loyalty program, or equipping your staff with AI tools, the brands winning right now are the ones building systems that connect behavior, data, and experience across every touchpoint. Generic doesn't cut it anymore."
+  "this_weeks_take": "Ad automation, supply chain disruption, and consumer split loyalty all point to the same problem: regional operators are losing controls they used to take for granted. The chains that come out ahead won\u2019t be the ones who resist \u2014 they\u2019ll be the ones who get intentional about what they can actually own, and build for that before the defaults get set for them."
 }
