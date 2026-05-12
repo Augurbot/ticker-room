@@ -1,33 +1,33 @@
 {
   "vertical": "realestate",
-  "week_of": "2026-05-04",
-  "generated_at": "05:10",
-  "week_in_brief": "Spring momentum returned while competitive pressure accelerated\u2014market's moving, but not standing still.",
+  "week_of": "2026-05-12",
+  "generated_at": "16:19",
+  "week_in_brief": "Inventory is giving brokerages a real story to tell — but the tools designed to tell it are turning every agent's content into the same story.",
   "items": [
     {
-      "headline": "Big Tech Consolidation Meets Agent Anxiety",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Real Brokerage is buying RE/MAX for $880M, merging AI-powered operations with a 145,000-agent network. Agent mobility is spiking\u2014Q1 saw 35% more mid-tier producers jump brokerages, with Dallas, San Diego, and Tampa leading the exodus. This isn't just M&A noise\u2014it's structural reshaping driven by capital and capability.",
-      "so_what": "Retention marketing just became table stakes. Your agents are watching competitors promise better tech, better splits, and better marketing. If you're not actively communicating your value story\u2014with proof\u2014you're losing producers in silence."
+      "headline": "THE NARRATIVE WINDOW IS OPEN — USE LOCAL DATA TO WALK BUYERS THROUGH IT",
+      "tag": "🏠 Market Shift",
+      "whats_happening": "The National Association of Realtors released a May market outlook calling the current environment a \"self-correction\" — inventory is building, days on market are extending, and some price softening is appearing in previously overheated areas. NAR's explicit message: buyers who have been waiting are now facing better odds, and the window before rates fall further and competition returns is real.",
+      "so_what": "This is not a macro story — it's a local campaign brief. Your buyers need hyperlocal data: days on market in their specific neighborhoods, inventory growth in their price range, what concession rates look like in your top zip codes. Generic \"now's a great time to buy\" doesn't move people. Campaigns built around your actual market data do."
     },
     {
-      "headline": "Your Agents Won't Adopt Five AI Tools",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "New \"super app\" platforms are consolidating lead routing, listing automation, and content generation into single interfaces because agents aren't adopting fragmented point solutions. The diagnosis is clear: \"real estate has an AI problem,\" but it's adoption paralysis, not lack of options.",
-      "so_what": "Stop sending your team five different logins. Win on integration depth. The brokerage that gives agents one trusted platform with everything they actually use daily will retain and recruit better than the one offering 12 shiny features across disconnected tools."
+      "headline": "WHEN EVERYONE'S AGENT CONTENT IS AI-GENERATED, THE BROKERAGE BRAND IS THE DIFFERENTIATOR",
+      "tag": "🤖 AI & Tools",
+      "whats_happening": "Roomvu expanded its Autonomous Visibility System this week — an AI platform that pulls MLS listing data and automatically generates social content, market reports, and branded video for agents at scale. For brokerages managing large agent rosters, the production problem is solved. But Roomvu's own coverage flagged the obvious risk: when every agent at every brokerage is running the same automated content engine from the same listing data, differentiation evaporates at the agent level.",
+      "so_what": "The answer isn't to avoid AI content tools — it's to invest in the brokerage brand layer above them. Your market perspective, your community presence, your voice on local trends: that's what makes your agents' AI-produced content feel like it comes from somewhere, instead of just coming from an algorithm. Brand clarity at the brokerage level becomes the competitive moat when agent-level content goes commodity."
     },
     {
-      "headline": "Concessions Are Normal Again\u2014Update Your Messaging",
-      "tag": "\ud83c\udfe0 Market Shift",
-      "whats_happening": "39% of sellers now expect to make concessions to close deals, up from 30% last year. Pending sales and new listings are climbing again as spring activity returns, but this isn't 2021. The market settled into balance\u2014buyers have leverage, sellers need realistic expectations.",
-      "so_what": "If your listing marketing still implies \"price it high, let the market decide,\" you're setting agents up to lose credibility. Help your team message negotiation as strategic positioning, not failure. Agents who communicate realistic pricing strategy close more deals and keep clients longer."
+      "headline": "COMPASS CONSOLIDATION IS COMPRESSING YOUR SEARCH VISIBILITY — OWN YOUR DIGITAL REAL ESTATE",
+      "tag": "📊 Data & Measurement",
+      "whats_happening": "MLS/CLAW announced a partnership with Compass International Holdings this week, giving the MLS access to Compass's full active listing inventory. This follows similar moves by Realtracs and MRED, establishing Compass as the anchor partner in a national listing access expansion. The pattern is clear: listing data is consolidating around national brands with the infrastructure to aggregate it, and portal search results will increasingly favor that concentration.",
+      "so_what": "Your owned digital presence — your brokerage website's organic search performance, your local content authority, your direct consumer touchpoints — is the counter to portal dependency. If you're showing up in Google because of Zillow, you're renting visibility. If you're showing up because of your own neighborhood content, market reports, and local SEO, you own it. National consolidation is accelerating; the time to build your moat is before the squeeze, not after."
     },
     {
-      "headline": "Video Is the New Business Card",
-      "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Professional video content is driving 40% higher engagement than irregular posting, and agents using polished short-form assets (drone, branded video, professional photography) are building trust before first contact. This isn't about posting more\u2014it's about posting better.",
-      "so_what": "Generic lead funnels aren't enough. Invest in branded content production and agent enablement. The brokerages winning right now are arming agents with production-quality assets they can deploy consistently. If you're not producing for your team, they'll leave for someone who will."
+      "headline": "META'S FULL AUTOMATION TIMELINE IS 2026 — TEST ADVANTAGE+ NOW BEFORE YOU LOSE THE CONTROLS",
+      "tag": "📱 Channel Update",
+      "whats_happening": "Meta Platforms is reportedly targeting full ad automation by end of 2026 — where advertisers supply a creative asset and a budget, and the platform handles targeting, copy, and optimization autonomously. Advantage+ campaigns are already the direction of travel, with manual controls increasingly being phased back. For national brands running broad awareness, this is fine. For regional brokerages running geo-targeted recruitment, neighborhood-specific buyer ads, and hyperlocal farming campaigns, it's a meaningful loss of precision.",
+      "so_what": "Run Advantage+ campaigns alongside your manual campaigns now — not instead of them. You need to understand where the automation gaps are in your market before full automation becomes the forced default. The brokerages that test this while they still have a comparison set will be far better positioned to adapt than those who discover the limitations after the option to adjust is gone."
     }
   ],
-  "this_weeks_take": "The spring market is back, but the game changed while we waited. Retention isn't about splits anymore\u2014it's about making your agents better operators than they'd be anywhere else."
+  "this_weeks_take": "The market just handed regional brokerages a genuine campaign moment — inventory building, buyers reconsidering, a real \"act now\" case to make with local data. The irony is that the tools helping agents execute that message are standardizing it into noise. The brokerages that win this window aren't the ones with the best AI content stack. They're the ones with the clearest point of view on their own market."
 }
