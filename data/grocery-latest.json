@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-05-12",
-  "generated_at": "16:19",
-  "week_in_brief": "A week of hard numbers — shopper loyalty is fragmenting faster than most regional grocers' digital tools can respond to it.",
+  "week_of": "2026-05-18",
+  "generated_at": "11:37",
+  "week_in_brief": "Shoppers are walking out the door, inflation is accelerating, and the search data you rely on to reach them just got murkier — this week demanded grocers get ahead of all three at once.",
   "items": [
     {
-      "headline": "GEN X IS ALREADY IN YOUR APP — ARE YOU MEETING THEM THERE?",
+      "headline": "SHOPPER FLIGHT IS AN ACQUISITION PROBLEM NOW",
       "tag": "🛒 Shopper Shift",
-      "whats_happening": "FMI data out this week finds Gen X shoppers are actively using retailer apps for weekly ads, digital coupons, and loyalty programs — not just younger demographics. Gen X represents some of your highest-frequency, highest-basket-size shoppers, and they've already adopted the digital behaviors you may have assumed belonged to millennials. Meanwhile, LendingTree's 2026 consumer survey shows shoppers are deliberately splitting trips across multiple retailers to stretch food budgets, using lists, coupons, and sale timing to manage costs.",
-      "so_what": "Gen X is where app investment pays off fastest — they're already showing up digitally, they buy more, and they're making deliberate trip decisions. If your app experience is outdated or your digital offers are thin, you are actively losing planned trips to competitors who built better tools."
+      "whats_happening": "A new Alvarez & Marsal survey of 2,100 consumers found 42% now plan to switch to a less expensive grocer this spring — up from 31% last fall — while the share willing to trade down within their current store dropped sharply. Value-seekers have exhausted the deals available at traditional grocery stores; they're leaving. Meanwhile, Adobe Analytics data shows AI-referred traffic to U.S. retailers grew 393% year-over-year in Q1 2026, with those visitors converting 42% better, spending 48% longer on site, and generating 37% more revenue per visit than non-AI traffic.",
+      "so_what": "The shopper considering leaving is doing research — and increasingly, that research runs through AI assistants. If your store's product pages and content aren't structured to be cited by AI tools, you're invisible to the consumer who's most motivated to make a switch in your favor."
     },
     {
-      "headline": "30% MORE LIFETIME VALUE — BUT ONLY IF YOU EARN IT",
-      "tag": "🧠 Strategy",
-      "whats_happening": "Industry data from Omnisend and Loyal Guru confirms that omnichannel shoppers buy 2.5x more often and deliver 30% higher lifetime value than single-channel customers. The catch: 83% of consumers say personalized experiences are what drive that loyalty across channels. The lift doesn't happen automatically — it requires CRM and loyalty infrastructure that can recognize a shopper across channels and respond with relevant, timely offers.",
-      "so_what": "This is the personalization business case in plain numbers. An omnichannel shopper who receives generic communications is not delivering their potential LTV. The regional grocers closing the value gap with nationals are the ones investing in personalization at the loyalty layer — not just building apps, but making those apps work for each shopper specifically."
-    },
-    {
-      "headline": "META IS AUTOMATING YOUR ADS — TEST IT NOW, ON YOUR TERMS",
-      "tag": "📱 Channel Update",
-      "whats_happening": "Meta is targeting full ad automation by end of 2026, per Reuters reporting. The model: you supply a product image and a budget, AI handles targeting, creative, copy, and optimization. Advantage+ campaigns are already moving this direction, with human control increasingly optional. For regional grocers, this is a double-edged shift — lower production barriers could help lean marketing teams, but it also means less control over message, local tone, and audience precision.",
-      "so_what": "Don't wait until the transition is the default. Run Advantage+ campaigns now alongside your manually managed campaigns and measure the gap — specifically on local relevance and community messaging, where your brand voice matters most. Understanding where the automation falls short gives you leverage to decide how much control to hand over."
-    },
-    {
-      "headline": "YOUR FRESH AND PREPARED FOODS PROGRAM IS AN UNTAPPED ONLINE ASSET",
+      "headline": "PAID SEARCH DATA JUST GOT LESS RELIABLE",
       "tag": "📊 Data & Measurement",
-      "whats_happening": "FMI data identifies beverages, meat, coffee, and prepared foods as the top categories driving online grocery sales — the top 20 food categories account for more than 80% of online food revenue. These aren't the same as in-store impulse leaders. Separately, Nielsen IQ projects online grocery will grow at an 11.6% CAGR through 2028, reaching $452 billion and representing 25.5% of total grocery spending. The gap between national chain online fulfillment capability and regional operators is becoming a market share gap.",
-      "so_what": "If your store has a strong deli, prepared foods section, or butcher counter — and you're not actively promoting those categories in digital channels — you have an underutilized competitive advantage sitting idle. National chains can't out-story you on local fresh. Use it."
+      "whats_happening": "Food-at-home prices rose 2.9% year-over-year in April — the fastest rate since August 2023 — and with the Producer Price Index up 6% annually, economists are forecasting a summer retail spike that could land on shelves in July and August. Shoppers are searching harder and more specifically for value. At the same time, Search Engine Journal reported that Google quietly changed how search terms are reported when queries originate from AI Mode, AI Overviews, and Google Lens: advertisers now see an \"interpreted\" version of the query, not the actual language shoppers used.",
+      "so_what": "At the exact moment inflation is driving shoppers to search more explicitly for deals and cheaper alternatives, your window into that search language is narrowing. Audit your search term reports now and pressure-test whether they still reflect real shopper intent — before a summer pricing surge makes the gap impossible to bridge."
+    },
+    {
+      "headline": "AI MODE ADS REWARD FIT, NOT BUDGET",
+      "tag": "📱 Channel Update",
+      "whats_happening": "Google began testing \"Sponsored Stores\" and \"Direct Offers\" placements inside AI Mode without a formal announcement, surfacing through existing Shopping and Performance Max campaigns. According to Search Engine Journal, placement is determined by feed quality and structured data hygiene — not bid levels. Separately, at GroceryTech 2026, Lowes Foods CEO Tim Lowe told regional operators to stop mimicking big-chain omnichannel playbooks and instead build connected commerce strategies rooted in their distinctive brand identities.",
+      "so_what": "Google's emerging AI ad layer doesn't favor the biggest budgets — it favors clean, well-structured product data and brand clarity. Regional grocers who've built something worth choosing have a real edge here, but only if the data behind their Shopping campaigns actually reflects it. Feed hygiene is now brand strategy."
+    },
+    {
+      "headline": "SNAP RULE IS YOUR FRESH FOOD MOMENT",
+      "tag": "🧠 Strategy",
+      "whats_happening": "The USDA finalized new SNAP stocking standards requiring authorized retailers to carry at least seven varieties across four staple food categories — more than doubling the previous requirement and eliminating loopholes that had allowed snack foods to count as staples. The rule takes effect fall 2026. This lands as new NGA analysis shows independent grocers reached nearly 39% of U.S. food retail sales in 2024, up from 33% in 2020, supporting over 1.48 million jobs and $557.5 billion in total economic activity.",
+      "so_what": "Independent grocers already skew toward the fresh and whole food assortment SNAP now mandates. Get ahead of the narrative: use the rule's rollout as a public-facing moment to articulate your produce and protein commitment before national chains figure out how to spin their compliance as a virtue signal."
     }
   ],
-  "this_weeks_take": "The data this week tells one story: the regional grocery advantage is real, but it only converts if you're showing up digitally where your shoppers already are. Gen X is in the app. Omnichannel shoppers deliver more value. Fresh and prepared are driving online sales. The window to compete isn't closing — but it's not standing still either."
+  "this_weeks_take": "The inflation story and the technology story are the same story this week. Shoppers are price-pressured and actively looking for a reason to leave — the grocers who hold them won't be the ones with the deepest promotions. They'll be the ones who show up clearly in AI search, communicate honestly about prices, and make their brand worth choosing."
 }
