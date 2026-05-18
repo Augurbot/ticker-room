@@ -1,33 +1,33 @@
 {
   "vertical": "retail",
-  "week_of": "2026-05-12",
-  "generated_at": "16:19",
-  "week_in_brief": "Supply chains are being rebuilt, ad platforms are automating themselves, and your shoppers are splitting their loyalty three ways \u2014 this was a week for making structural decisions before someone else makes them for you.",
+  "week_of": "2026-05-18",
+  "generated_at": "11:37",
+  "week_in_brief": "The platforms are changing the rules while your campaigns run \u2014 and almost none of those changes came with an announcement.",
   "items": [
     {
-      "headline": "META'S AUTOMATION DEADLINE IS NOW YOUR TEST Window",
-      "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Meta is targeting full ad automation by end of 2026, where brands supply a product image and a budget and AI handles targeting, creative, copy, and optimization. Search Engine Journal reported that Advantage+ campaigns are already moving this direction, with human controls becoming increasingly optional. For regional multi-location operators, this isn\u2019t just an efficiency story \u2014 it\u2019s a local relevance story. When automation flattens creative and targeting, the brand that knows its markets best has the most to lose.",
-      "so_what": "Run Advantage+ campaigns now while the comparison data is still yours to collect. When the transition becomes default, your ability to see what the AI is and isn\u2019t getting right about your specific markets disappears with it."
-    },
-    {
-      "headline": "SUPPLY CHAIN VOLATILITY JUST BECAME A MARKETING PROBLEM",
+      "headline": "AI Agents Don't Care About Your Promotions",
       "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Chain Store Age reports regional retailers actively restructuring supply chains to reduce import dependence and buffer tariff exposure \u2014 and that the downstream effect on marketing is significant. Promotional calendars, seasonal campaigns, and inventory-driven messaging all break when availability becomes unpredictable. This is also the week Google announced GeoX updates, a geo-based incrementality tool that lets multi-location operators measure real campaign lift market-by-market without requiring a large holdout experiment.",
-      "so_what": "Build flex points into your Q3 and Q4 campaign calendar now, before you\u2019re reacting mid-flight. And if you\u2019re running the same message across all your locations without testing what\u2019s actually moving the needle by market, GeoX-style thinking is worth your time \u2014 especially when your inventory isn\u2019t uniform."
+      "whats_happening": "Harvard Business Review published new research confirming that AI shopping agents \u2014 automated buyers working on behalf of consumers through platforms like OpenAI, Google, and Amazon \u2014 are unmoved by scarcity alerts, countdown timers, strikethrough pricing, and bundle offers. In some product categories, those tactics actually reduced selection likelihood. In the same week, Google launched two new ad formats inside AI Mode (Sponsored Stores and Direct Offers) where placement is determined by product feed quality and structured data \u2014 not bid levels or promotional messaging.",
+      "so_what": "If you're investing time crafting urgency-based promotions for digital channels, take a hard look at what percentage of that traffic is now automated or AI-assisted. The investment that moves the needle is clean, accurate product data \u2014 complete attributes, competitive base pricing, clear titles \u2014 not another countdown banner."
     },
     {
-      "headline": "YOUR SHOPPERS ARE DATING AROUND \u2014 FRICTION IS THE PROBLEM",
-      "tag": "\ud83d\uded2 Retail Shift",
-      "whats_happening": "A LendingTree 2026 survey found consumers increasingly building lists, collecting coupons, and splitting shopping trips across multiple stores to manage inflation. This multi-store behavior erodes the habitual repeat visit that regional chains depend on. Separately, wallet-based loyalty platform Passtastic crossed 400,000 digital passes globally \u2014 delivering loyalty programs through Apple Wallet and Google Wallet, no standalone app download required.",
-      "so_what": "If your loyalty program requires an app download, you\u2019re filtering out exactly the price-sensitive, already-fragmented shopper you most need to recapture. Wallet-based passes have meaningfully lower adoption friction \u2014 worth a hard look before you invest in a full program redesign."
-    },
-    {
-      "headline": "YOUR STACK IS BROKEN AND AI JUST NOTICED",
+      "headline": "Your Best New Traffic Source Is Also Your Biggest Blind Spot",
       "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "The 2026 State of Martech report counted 15,505 marketing technology products \u2014 up just 121 from last year. The growth era is over. The real finding, per CMSWire: AI is surfacing integration gaps, underused tools, and data quality problems that were previously papered over by new platform launches. This lands differently in retail, where Gartner data shows global retail tech spending hitting $388 billion with AI investments growing 25% annually \u2014 but most of it concentrated at large-format operators.",
-      "so_what": "The gap between enterprise retail AI capability and regional operator capability is widening, but the entry cost for practical tools has dropped. The bottleneck isn\u2019t the tool \u2014 it\u2019s whether your data infrastructure is clean enough to make any AI useful. That\u2019s the audit worth doing now."
+      "whats_happening": "Adobe Analytics, tracking over one trillion U.S. retail site visits, found that AI-referred traffic grew 393% year over year in Q1 2026. The quality is striking: AI-referred visitors convert 42% better, spend 48% longer on site, and generate 37% more revenue per visit than non-AI traffic. In the same week, Search Engine Journal reported that Google quietly changed how search queries are reported when they originate from AI Mode and AI Overviews \u2014 replacing actual user queries with \"interpreted\" versions, stripping out the real language your customers used to find you.",
+      "so_what": "AI referral is becoming a genuinely high-value acquisition channel \u2014 but Google is simultaneously removing the data you'd use to develop it. Ask your agency or paid search team now: are your current search term reports still showing real customer language, or interpreted summaries? If it's the latter, your keyword strategy and negative match decisions may already be built on a distorted picture."
+    },
+    {
+      "headline": "Meta Is Editing Your Ads. Nobody Asked.",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "Multiple advertisers have documented Meta's AI tools making unauthorized changes to active ad creative \u2014 including one confirmed case where AI modifications physically distorted product images. Meta is also quietly adding AI-allocated test budgets to live campaigns without explicit opt-in. Both are tied to the rollout of Meta's Andromeda ad retrieval system and its Manus AI agent inside Ads Manager, which can make autonomous campaign decisions across active ads.",
+      "so_what": "For a lean team that isn't monitoring every placement daily, this is a brand integrity problem, not just a campaign settings issue. Open your active Meta campaigns today and look at running creative \u2014 specifically any product images for unexpected stretching, recomposition, or off-brand treatments. Then audit your budgets for unexplained additions. This isn't a future risk; it may already be live."
+    },
+    {
+      "headline": "Amazon Raised the Speed Bar. Instacart Handed You a Ladder.",
+      "tag": "\ud83d\uded2 Retail Shift",
+      "whats_happening": "Amazon launched \"Amazon Now,\" a 30-minute delivery service for groceries and household essentials, with plans to reach tens of millions of customers by year-end. In the same week, Instacart announced significant upgrades to Fulfillment Pro \u2014 including fleet management software for retailer-owned delivery operations and enterprise-grade picking tools covering the full workflow from planning through substitutions and staging. The timing isn't coincidental: same-day fulfillment is moving from competitive advantage to baseline expectation.",
+      "so_what": "Amazon Now will reset what your customers expect in your trade area regardless of whether you compete with Amazon directly. Instacart's Fulfillment Pro \u2014 particularly the fleet management component \u2014 gives regional operators a realistic path to same-day credibility without starting from scratch. Rollout begins later in 2026; get a briefing before it lands, not after."
     }
   ],
-  "this_weeks_take": "Ad automation, supply chain disruption, and consumer split loyalty all point to the same problem: regional operators are losing controls they used to take for granted. The chains that come out ahead won\u2019t be the ones who resist \u2014 they\u2019ll be the ones who get intentional about what they can actually own, and build for that before the defaults get set for them."
+  "this_weeks_take": "The through-line this week is control \u2014 specifically, how much of it is quietly disappearing. Google is obscuring your search data. Meta is editing your creative. AI agents are ignoring your promotions. Amazon is resetting delivery expectations. None of this is targeted at regional operators specifically, but lean teams are the last to notice and the slowest to adapt. The advantage right now goes to whoever pays attention first."
 }
