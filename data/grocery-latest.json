@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-05-27",
-  "generated_at": "08:54",
-  "week_in_brief": "Shoppers are splitting their baskets across six banners \u2014 the grocers who earn a permanent slot are the ones with a clear identity, not just a low price.",
+  "week_of": "2026-06-01",
+  "generated_at": "05:20",
+  "week_in_brief": "Personalization is no longer a differentiator \u2014 it's the table stakes for retaining customers who now expect it.",
   "items": [
     {
-      "headline": "YOUR STORE'S PERSONALITY IS YOUR MARKETING STRATEGY",
+      "headline": "AI-Powered Offers Replace Weekly Circulars",
       "tag": "\ud83d\uded2 Shopper Shift",
-      "whats_happening": "FMI's U.S. Grocery Shopper Trends 2026 report finds that American shoppers visit an average of 5.4 grocery banners per month \u2014 6.7 for Gen Z. The report introduces the concept of \"store personality,\" categorizing banners by role: entertainment, stock-up, or bargain hunting. Separately, 61% of Americans say they've cut back on groceries, and multi-store price-hunting within a single week is now mainstream shopper behavior, per New York Times and fori.us research.",
-      "so_what": "When wallets are tighter and shoppers are running four stores in one trip, a vague identity is a death sentence. The stores that stay in rotation are the ones shoppers know exactly why they visit \u2014 fresh cuts, local produce, the butcher who knows your name. Make that reason unmistakable in every touchpoint, from your loyalty app to your social posts to your signage at the door."
+      "whats_happening": "Seventy percent of grocery shoppers now expect personalization comparable to Netflix or Spotify, and regional grocers are responding by shifting from generic weekly circulars to AI-powered one-to-one offers based on purchase history. Birdzi and FMI report that grocers combining personalized savings with behavioral triggers across email, app, SMS, and in-store see higher redemption rates, larger basket sizes, and stronger trip frequency. Tools that were enterprise-only 12 months ago are now accessible to mid-sized and regional operators.",
+      "so_what": "If you're still running the same weekly ad to your entire list, you're competing with one hand behind your back. Build personalized offers into your loyalty program now \u2014 not as a pilot, as your core promotional engine."
     },
     {
-      "headline": "YOUR PRIVATE LABEL IS A RETENTION ASSET \u2014 MARKET IT LIKE ONE",
+      "headline": "Google Eliminated AI Overview Click Tracking",
       "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "A 2026 Global Shopper Study finds that 86% of US consumers now rate private label value as equal to or better than name brands, with 77% saying the same for quality. This is a structural shift, not a recession bump \u2014 private label has crossed the perception threshold from \"backup option\" to \"preferred choice.\" Simultaneously, Meta expanded its purchase audience retention window to 730 days, doubling the previous 365-day lookback.",
-      "so_what": "Shoppers who bought your store brand in the last two years are now your most re-marketable loyalty segment. Meta's extended audience window means you can reach them again with a fresh private label launch, a seasonal extension, or a simple \"you loved X \u2014 here's what's new\" message. CPG brands will respond with more promotional pressure at the shelf; your own-brand program is how you own margin and loyalty at the same time."
+      "whats_happening": "In early May, Google removed the tracking method that identified clicks from AI Overview results, with no replacement announced. Research across 50 B2B SaaS keywords found that top-three-ranked pages saw 18\u201334% CTR declines once AI answers appeared above the fold \u2014 despite stable rankings and impressions. The core problem: AI-influenced buyers often convert days later through branded search or direct visit, creating an invisible attribution gap that last-click models can't capture.",
+      "so_what": "Add self-reported attribution fields to your checkout and email capture flows. Track share of voice in AI responses as a primary KPI alongside rankings. The clicks you're losing to AI Overviews aren't gone \u2014 they're just harder to measure."
     },
     {
-      "headline": "IN-STORE RETAIL MEDIA IS NOW A REGIONAL PLAY",
+      "headline": "Loyalty ROI Is Now Central to Budget Retention",
+      "tag": "\ud83d\udcca Data & Measurement",
+      "whats_happening": "Ninety percent of loyalty program managers who measure performance report positive ROI, with an average return of 5.2x investment, according to Antavo and Birdzi. Finance teams are demanding proof of behavior change \u2014 not just sign-up counts or app downloads. Effective 2026 programs combine points with personalized savings, behavioral triggers, and unified data across POS, digital, and engagement channels. Grocers unable to tie loyalty campaigns back to measurable shopper outcomes risk losing budget.",
+      "so_what": "If you can't show how your loyalty program changes purchase frequency, basket size, or retention, your finance team will redirect that budget. Build closed-loop measurement into your program architecture now."
+    },
+    {
+      "headline": "ChatGPT Advertising Went Self-Serve With No Minimum Spend",
       "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Raley's Companies \u2014 a private, family-owned chain operating across 208 California, Nevada, and Arizona locations \u2014 launched a full in-store retail media network via Grocery TV in weeks, not years. Grocery TV now reaches 6,700+ stores across 120+ retail partners including Hy-Vee, Giant Eagle, and ShopRite. VP of Digital Commerce Zac Wilson credited the platform partnership for speed-to-launch that would have otherwise taken years of internal development.",
-      "so_what": "This is the proof point that in-store retail media isn't just for national chains anymore. CPG brands are actively funding this inventory, and the platform infrastructure now exists to stand it up fast. If you've got high foot traffic and shelf space that CPG brands want to reach, you have the ingredients for a revenue stream \u2014 and a stronger case for price investment funded by media dollars rather than margin cuts."
-    },
-    {
-      "headline": "COMMUNITY STORIES ARE NOW AN AI VISIBILITY STRATEGY",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "More than 300 rural grocery operators gathered at the 2026 National Rural Grocery Summit, where keynote speaker Jon Steinman urged attendees to \"rewrite the narrative\" \u2014 lean into storytelling, position your store as a community anchor, not just a food retailer. At the same time, Google published formal guidance confirming that AI Overview optimization is not a separate discipline: quality content, structured data, and E-E-A-T signals are how you appear in AI search results, the same fundamentals as always.",
-      "so_what": "That story about the local farm you source from, the school fundraiser you supported, the butcher who's been there 22 years \u2014 that's not just feel-good content anymore. It's how you build the kind of entity clarity and trusted-source signals that surface your store in AI-assisted searches. Community identity is brand strategy and search strategy at the same time. Write it down. Publish it."
+      "whats_happening": "OpenAI made ChatGPT advertising accessible to all U.S. businesses through a self-serve Ads Manager in early May, eliminating the previous minimum spend requirement. The platform processes 2.5 billion daily prompts and hit $100M in annualized revenue within six weeks of launch. Targeting is conversational and contextual, not keyword-based, and advertisers receive zero user data. This channel rewards specific, intent-matched offers over brand awareness.",
+      "so_what": "If you run performance campaigns for specific use cases \u2014 meal planning, recipe discovery, SNAP benefits questions \u2014 ChatGPT ads are worth testing with a small budget. This is not a brand awareness channel. It's a direct-response play for high-intent queries."
     }
   ],
-  "this_weeks_take": "The national chains have the price war budget. You have something they can't buy: a reason shoppers choose you on purpose. Every marketing dollar you spend should make that reason clearer. This week's data \u2014 from store personality research to rural storytelling to private label loyalty \u2014 all points the same direction: specificity wins. Vague grocers lose shoppers when budgets tighten. Specific ones get kept."
+  "this_weeks_take": "Personalization isn't aspirational anymore \u2014 it's required. Your shoppers expect it, your competitors are building it, and your finance team will demand you prove it. The tools are accessible now. The question is whether you'll use them before someone else does."
 }
