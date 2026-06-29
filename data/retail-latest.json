@@ -1,33 +1,33 @@
 {
   "vertical": "retail",
-  "week_of": "2026-06-22",
+  "week_of": "2026-06-29",
   "generated_at": "04:50",
-  "week_in_brief": "It was a week where winning depended on moving faster than your competitors \u2014 and knowing what not to chase.",
+  "week_in_brief": "Portfolio optimization went from crisis response to capital strategy, while the AI commerce layer moved from beta to budget line.",
   "items": [
     {
-      "headline": "Prime Day Just Ate Your Summer Promotion Calendar",
+      "headline": "Store Closures Are Portfolio Decisions, Not Distress Signals",
       "tag": "\ud83d\uded2 Retail Shift",
-      "whats_happening": "Amazon moved Prime Day to June 23\u201326 this year \u2014 only the second time it's run in late June instead of mid-July \u2014 and Target, Walmart, and Best Buy are launching counter-promotions simultaneously. That four-day window is now the most competitive discount moment of the summer, crowding Google Shopping and Meta ad inventory with national retail spend. If you planned your summer promo calendar around July, you just lost three weeks of runway.",
-      "so_what": "This is not a window to compete on price depth against national retailers. It is a window to own a local category or niche they ignore. Accelerate your June promotion timeline, tighten inventory alignment, and prioritize high-margin categories where you have differentiation."
+      "whats_happening": "Kroger expects 60 closures by year's end; an 80-year-old discount chain just cut 30% of its East Coast fleet in one announcement. These aren't emergency exits\u2014they're capital reallocation moves driven by underperforming economics and strategic network optimization. Meanwhile, Google delayed its forced DSA-to-AI Max migration until February 2027, restoring the ability to launch new Dynamic Search Ad campaigns. Both moves reflect the same logic: proven structures still deliver while next-generation systems prove themselves out.",
+      "so_what": "Treat campaign architecture like real estate\u2014optimize the portfolio, don't force migrations before the ROI case is clear. If Google paused its own automation push, you can afford to run proven backup tactics while testing AI Max on select geographies."
     },
     {
-      "headline": "Your Competitors Are Cutting Loyalty Spending. That's Your Opening.",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Gartner reports CMO spending on loyalty and retention has fallen 29% since 2024, even as acquisition budgets surge. The driver is quarterly pressure \u2014 executives reward short-term conversion wins, not long-term customer value. Lippincott's CMO study confirms it: 83% of CMOs believe their company is growing, but only 14% feel prepared for what's next. They're cutting retention to fund immediate credibility.",
-      "so_what": "This is a strategic vulnerability you can exploit. Acquisition is expensive. Regional retail depends on repeat visits and basket growth, not constant customer churn. If competitors are underfunding loyalty, you can own lifetime value by keeping it funded. Reframe loyalty spending as a hedge against acquisition cost inflation, not a discretionary line item."
-    },
-    {
-      "headline": "AI Shoppers Browse 53% Longer \u2014 If Your Product Data Is Ready for Them",
+      "headline": "AI Agents Control Discovery; You Still Control Fulfillment",
       "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "Adobe's latest data shows AI-referred online shoppers spend 53% longer per visit, browse 23% more pages, and have a 36% lower bounce rate than traditional traffic. AI shopping agents are becoming a primary gateway to e-commerce \u2014 but only if your product catalog, review infrastructure, and data quality are AI-discoverable. Striim and TechRadar research confirms the bottleneck: fragmented data silos (POS, e-commerce, loyalty, inventory) prevent AI agents from making intelligent decisions, because they're working with stale or incomplete information.",
-      "so_what": "Regional chains lag e-commerce peers in AI adoption, and that gap is widening. Before investing in AI tools, audit your data integration. If your systems aren't talking to each other in real time, AI agents will make decisions on outdated information that undermines customer experience. The advantage goes to operators who fix their data infrastructure first."
+      "whats_happening": "Consumers now prefer universal AI assistants like ChatGPT and Claude for product discovery over merchant-embedded tools, but they still choose familiar marketplaces to complete purchases. Amazon launched Sponsored Prompts and agentic ads; Visa embedded payments into ChatGPT; Shopify positioned agentic commerce as a new demand channel. WPP forecasts AI search will capture $100B\u201440% of search revenue\u2014by decade's end. This creates a \"discovery-execution gap\": universal agents own awareness, regional sites handle the transaction.",
+      "so_what": "You need visibility in AI conversations, not just on search result pages. That means optimizing product feeds for agents, not humans, and preparing for two-step journeys where your brand isn't the discovery touchpoint. If you're not feeding data to agents now, you're ceding discovery to competitors who are."
     },
     {
-      "headline": "Your Store Is a Discovery Engine \u2014 But Only If It Feels Like One",
+      "headline": "Retail Media Networks Are Scaling Faster Than Operations Can Handle",
+      "tag": "\ud83d\udcca Data & Measurement",
+      "whats_happening": "Albertsons Media Collective launched AI-powered conversational search ads. Mirakl debuted Business Agents embedded in its RMN platform. But ProOps Consulting warns that ad ops teams lack the capacity to absorb new formats at this pace\u2014CTV consolidation, AI commerce channels, new reporting tools, and demand-source shifts are arriving faster than teams can operationalize them. The bottleneck isn't technology; it's the humans running the systems.",
+      "so_what": "If you're building or upgrading a retail media network, invest in operational design\u2014workflows, automation, clear handoffs\u2014before adding more formats. Technology without capacity just creates revenue you can't capture and reporting you can't trust."
+    },
+    {
+      "headline": "In-Store Experience Becomes Revenue Infrastructure, Not Event Marketing",
       "tag": "\ud83d\uded2 Retail Shift",
-      "whats_happening": "New McKinsey research confirms consumers prefer physical stores for discovering new products and categories, while e-commerce dominates replenishment. That's good news for regional retail \u2014 stores still do something Amazon can't. The catch: this preference only holds if stores feel curated and experiential, not just transactional. Meanwhile, Target is expanding its Roundel retail media network beyond stores and into DirecTV's out-of-home advertising platform, using first-party shopper data to place brand messages in consumers' living rooms. Retail media networks are no longer confined to in-store displays \u2014 they're expanding into premium video and off-site environments.",
-      "so_what": "You can win on local relevance, intimate product knowledge, and localized assortment \u2014 but only if marketing reinforces what stores do better than Amazon: community, discovery, and hands-on experience. If you're building or considering a retail media network, watch Target's move closely. CPG brands will increasingly demand omnichannel retail media capabilities that small and mid-market operators may struggle to deliver alone."
+      "whats_happening": "Best-in-class regional retailers are shifting from one-off brand activations to consistent 60\u201390 day staffed experiences. These programs drive dwell time, enable face-to-face engagement, and create predictable non-retail revenue streams through CPG partnerships. At the same time, 45% of store visits are under 15 minutes\u2014quick, mission-driven trips remain the dominant behavior. TikTok's new Symphony AI video generation tools let advertisers turn text or images into platform-native videos at scale, solving the content fatigue problem without expanding production budgets.",
+      "so_what": "Physical space is a co-marketing asset, not just a transaction environment. Partner with brands that can staff and fund sustained in-store programs, then use AI-powered content tools to amplify those activations digitally without manual video production. The hybrid play\u2014physical experience + scalable content\u2014fits both the quick shopper and the engaged one."
     }
   ],
-  "this_weeks_take": "The pattern is clear: your advantage is moving faster than national competitors while they're distracted by quarterly pressure. Prime Day compression, loyalty budget cuts, and AI data gaps are all exploitable weaknesses \u2014 if you act now."
+  "this_weeks_take": "The pattern this week: proven infrastructure still wins while AI moves from pilot to operational channel. Don't force migrations before returns are clear, but don't ignore that discovery is moving off your site and into agent conversations. The ones who'll win are treating AI visibility like they treat store networks\u2014optimize what works, test what's next, don't confuse the two."
 }
