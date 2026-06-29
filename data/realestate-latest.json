@@ -1,33 +1,33 @@
 {
   "vertical": "realestate",
-  "week_of": "2026-06-22",
+  "week_of": "2026-06-29",
   "generated_at": "05:10",
-  "week_in_brief": "Inventory's still stuck, leads are expensive, and brokerages are starting to realize AI adoption metrics don't pay the bills.",
+  "week_in_brief": "Buyer's market fully here, and marketing budgets finally have somewhere productive to go.",
   "items": [
     {
-      "headline": "Portal Leads Are Broken \u2014 Build a Referral Engine Instead",
-      "tag": "\ud83c\udff7\ufe0f \ud83e\udde0 Strategy",
-      "whats_happening": "Portal lead costs spiked post-NAR settlement and conversion rates remain dismal \u2014 real estate contact forms convert at 0.6%, the lowest of any industry, yet only 27% of those leads ever get contacted. Meanwhile, agents running relationship marketing programs are seeing 74% YoY growth with near-zero ad spend by focusing on past clients and referral engines.",
-      "so_what": "Move budget away from Zillow volume buying and into systems that make it easy for agents to stay top-of-mind with past clients. Referrals and past clients convert faster and cost less than cold portal leads."
-    },
-    {
-      "headline": "AI Adoption Is High, Productivity Gains Are Not",
-      "tag": "\ud83c\udff7\ufe0f \ud83e\udd16 AI & Tools",
-      "whats_happening": "Ninety-seven percent of brokerage leaders report agents using AI, and 82% of agents use AI for listing descriptions. But the gap between adoption and output is substantial \u2014 many agents hit those numbers using free public tools outside your approved stack, and per-agent productivity hasn't moved. License count is not the same as real productivity.",
-      "so_what": "Measure actual output change, not adoption metrics. Run six-week productivity loops on high-value workflows to close the gap between tool usage and revenue impact. If 97% of your agents use AI but 70% produce the same volume as two years ago, the tools aren't the problem \u2014 the workflow is."
-    },
-    {
-      "headline": "Agentic AI Introduces New Fair Housing and MLS Compliance Risks",
-      "tag": "\ud83c\udff7\ufe0f \ud83e\udd16 AI & Tools",
-      "whats_happening": "AI is shifting from tool-based (agent-controlled) to agentic (executes workflows autonomously). Agents are already experimenting with systems that can draft messages, update CRM records, and schedule follow-ups without human intervention. NAR's chief data officer flagged serious risks: MLS compliance violations, fair housing exposure from automated discriminatory patterns, and workflow delegation to unlicensed AI.",
-      "so_what": "Establish human review checkpoints now and define approved tool suites before liability shows up. The risk window is closing \u2014 agents won't wait for perfect policies, and the first lawsuit will come from a workflow you didn't know was automated."
-    },
-    {
-      "headline": "Inventory Growth Is Still Stuck, and Sellers Still Have the Upper Hand",
+      "headline": "Concessions at 46%\u2014but price cuts aren't the story",
       "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
-      "whats_happening": "Inventory grew only 0.247% year-over-year last week, with three of the last four weeks showing negative YoY growth. NAR expects a modest H2 recovery if inventory expansion continues, but the floor is rising slowly, not roaring back. Sellers retain leverage, and agents can afford to be selective with lead quality rather than chasing volume.",
-      "so_what": "Emphasize qualified-buyer outreach over volume. In markets where inventory still favors sellers, marketing should focus on readiness and relationship strength, not urgency campaigns that assume buyer desperation."
+      "whats_happening": "Seller concessions hit 46.2% of home sales this spring\u2014highest rate since 2019\u2014with Sun Belt markets leading at 75% (Nash ville), 71% (Charlotte), 68% (Atlanta), per Redfin. But here's the nuance: these are repairs, closing costs, and rate buydowns, not price cuts. Median price is stable at $425K. Sellers are negotiating terms, not equity.",
+      "so_what": "Stop running price-strength messaging. Concessions are a positioning opportunity\u2014market ads on rate buydowns, closing cost credits, and inspection flexibility. Buyers who left during the hot market are back; they need to hear \"leverage\" not \"appreciation.\""
+    },
+    {
+      "headline": "Entry-level inventory just disappeared",
+      "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
+      "whats_happening": "Only one in seven new hmes sold for under $300K in May (vs. one in five a year ago), per Inman. Builders can't pencil entry-level hmes at current costs, so they're moving upmarket. First-time buyers are being squeezed out of the new-construction pipeline entirely.",
+      "so_what": "Your first-time buyer volume is shrinking structurally. Shift CAM tiition and marketing spend toward repeat buyers, move-up transactions, and referral systems. The funnel changed\u2014adjust before your competitors do."
+    },
+    {
+      "headline": "Proprietary listing platforms are the new moat",
+      "tag": "\ud83c\udff7\ufe0f \ud83d\udcf1 Channel Update",
+      "whats_happening": "Hgward Hanna launched HannaList, a pre-MLS listing tool generating 4x more leads than MLS-only exposure, per RISMedia. CEO Hoby Hanna warned that Google and AI portals threaten brokerage control of listing data, and argued that proprietary lead-gen tech is now table stakes. Meanwhile, United Country bundled BullseyeAI\u2014an LLM-powered assistant for CRM, email, and listing gen\u20114at no extra cost to 500 affiliates to retain agents worried about tech costs.",
+      "so_what": "If you're relying on Zillow and Realtor.com for listing exposure, you're renting your pipeline. Google's new Search Console AI Performance Reports (announced June 15) let you track AI search visibility alongside traditional organic\u2014meaning you can finally measure whether your site content is being cited in AI Overviews. Invest there. Own the lead source."
+    },
+    {
+      "headline": "AI-generated ads now get labeled\u2014and users will notice",
+      "tag": "\ud83c\udff7\ufe0f \ud83e\udd16 AI & Tools",
+      "whats_happening": "Meta expanded transparency labels on ads created or edited with generative AI, visible through \"About this ad,\" per Meta Newsroom. The platform can also detect signals from third-party AI tools. Every AI-assisted ad is now subject to user scrutin{. TikTok, meanwhile, expanded Symphony AI to let advertisers turn text/images into platform-native videos at scale\u2014solving content fatigue for multi-location brands.",
+      "so_what": "Transparency is the new trust lever. If you're using AI to scale listing ads or agent recruitment creative, make sure the output is truthful and compliant. And if you're not using AI video tools yet (TikTok Symphony, Runway, Synthesia), your content production is about to look slow and expensive compared to brokerages that are."
     }
   ],
-  "this_weeks_take": "The brokerage that wins in 2026 isn't the one with the highest AI adoption rate \u2014 it's the one that turned adoption into actual productivity. Stop measuring tool usage and start measuring revenue per agent."
+  "this_weeks_take": "The market finally shifted. Buyers have leverage, sellers are negotiating, and marketing dollars can actually move deals again. The brokerages winning right now aren't the ones with the most listings\u2014they're the ones who rebuilt their tech stack and repositioned their messaging before everyone else figured it out."
 }
