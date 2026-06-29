@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-06-22",
+  "week_of": "2026-06-29",
   "generated_at": "05:20",
-  "week_in_brief": "Fresh quality is the new loyalty driver\u2014and marketing needs to catch up.",
+  "week_in_brief": "The channel boundaries are dissolving \u2014 delivery outpacing pickup, store space becoming a media asset, and prepared foods now competing directly with restaurants.",
   "items": [
     {
-      "headline": "Fresh Is the Moat. Market It Like One.",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Fresh departments (produce, deli, bakery, meat) now determine 91% of shopper trust, and 46% of shoppers will choose a grocer with better fresh quality over lower prices, according to Logile's 2026 State of Fresh report. This isn't incremental\u2014it's a fundamental shift in what makes shoppers loyal. The operational bar is high: fresh requires AI-driven forecasting within \u00b13% accuracy, real-time labor scheduling, and shrink reduction of 20\u201340%. But for regional grocers with local sourcing and consistent execution, fresh is the competitive moat that defends against big-box price wars.",
-      "so_what": "Your marketing should reflect what your operations already know. If fresh is where loyalty is built, your loyalty program, RMN ad creative, email campaigns, and in-store messaging should center fresh quality\u2014not price. Local sourcing stories, seasonal assortment, and prep team expertise are the content that converts trust into trips."
-    },
-    {
-      "headline": "Retail Media Is Becoming a Studio. You Don't Need to Be.",
-      "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Albertsons and P&G launched \"Rico's Tacos,\" a short-form scripted drama series running on Albertsons' YouTube, social channels, and in-store screens through August. The show connects entertainment to shopper data, loyalty offers, and purchase signals\u2014blurring the line between media and retail. According to Forbes, this signals a structural shift: retailers with direct shopper relationships and proprietary data are becoming content studios, not just ad distribution channels.",
-      "so_what": "You don't need a production budget to compete. What you have is local stories\u2014farmers, prep teams, community events, seasonal traditions. Regional grocers win by amplifying loyalty through storytelling that feels authentic, not scripted. Your RMN advantage is first-party data on local shoppers; use that to personalize messaging, not to produce Hollywood-lite content."
-    },
-    {
-      "headline": "Promotions Are Fragmenting Baskets. Loyalty Needs to Consolidate Them.",
+      "headline": "Delivery Wins the Format War \u2014 Speed Isn't the Whole Answer",
       "tag": "\ud83d\uded2 Shopper Shift",
-      "whats_happening": "Kroger's CEO warned that shoppers are taking more frequent, smaller trips driven by promotions rather than consolidating shopping into full baskets. This fragmentation reduces impulse purchases and basket profitability. Meanwhile, McKinsey's analysis of North American grocery shows that advantage is moving from individual programs (loyalty, pricing, private label) to connected systems that work together. National players benefit from scale, but regional grocers remain powerful where they have distinctive fresh, prepared food, and in-store propositions.",
-      "so_what": "If promotions are driving micro-trips, your loyalty program should reward consolidation\u2014not just frequency. Basket-building incentives, prepared meal bundles, and fresh + grocery combos create reasons to shop bigger. Marketing should shift from promoting single SKUs to promoting full trip occasions: weeknight dinner solutions, weekend breakfast, meal prep Sundays."
+      "whats_happening": "Same-day delivery now accounts for 65% of online grocery fulfillment (vs. 35% for pickup), driven by Walmart's 30-minute rollout in 33 markets and Amazon's 2,300-city expansion. But McKinsey's research shows consumers overwhelmingly prefer full assortment over ultra-fast delivery with limited selection. Meanwhile, Google restored the ability to create Dynamic Search Ads and delayed AI Max migration until February 2027, reinforcing that proven tactics still matter while automation stabilizes.",
+      "so_what": "Don't race Walmart on speed. Invest in pickup networks and micro-fulfillment that protect margins and offer full assortment. DSAs remain a reliable backup while you test AI Max \u2014 keep both in rotation."
     },
     {
-      "headline": "Google Ads Conversion Lists Go Live August 18. Regional Grocers Compete on Local Data, Not Scale.",
+      "headline": "Your Store Is Now a Media Channel",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "Physical store space is shifting from promotional zones to monetizable media assets. Brands are investing in 60\u201390 day experiential activations at front-of-store and inline zones, creating predictable revenue and dwell time. At the same time, TikTok expanded Symphony AI creative tools to generate platform-native video from text or images, enabling multi-location retailers to scale trend-responsive content without increasing budgets. Meta is now using third-party purchase and browsing data to personalize Feed content and AI responses across platforms.",
+      "so_what": "Develop clear policies, pricing, and category protocols for in-store experiences \u2014 this is steady margin and engagement for regional chains competing with big-box assortment. Pair that with TikTok's video tools to turn those experiences into content at scale. Make sure your product catalog and event tracking are accurate; Meta's using that data for more than ads now."
+    },
+    {
+      "headline": "Prepared Foods and Private Label Aren't Support Categories Anymore",
+      "tag": "\ud83e\udde0 Strategy",
+      "whats_happening": "25% of consumers now buy grocery-prepared foods as a restaurant substitute, with younger shoppers leading the shift. Walmart is promoting family meals under $10; Sam's Club expanded fresh and launched fruit-chopping programs. Prepared foods drive the highest trip frequency. Meanwhile, private label hit 50% unit share across Europe's largest markets, with consumers no longer seeing quality gaps between store brands and nationals. Google also launched Generative AI Performance Reports in Search Console, making AEO quantifiable \u2014 you can now track visibility across traditional search and AI Overviews in one dashboard.",
+      "so_what": "Treat prepared foods and private label as profit and loyalty drivers, not loss leaders. Invest in hot bars, deli innovation, and premium private label positioning. Track your AI search visibility alongside organic \u2014 it's finally measurable."
+    },
+    {
+      "headline": "Omnichannel Shoppers Spend 31% More \u2014 Build for That",
       "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "Starting August 18, Google Ads will begin processing conversion-based customer lists for advertisers using Enhanced Conversions and Customer Match. This allows advertisers to build segments from conversion behavior rather than demographic targeting alone, expanding reach to high-value repeat customers and lookalike audiences. At the same time, precision marketing platforms at Walmart Connect, Kroger Precision Marketing, and Albertsons Media Collective are consolidating loyalty data, AI-driven segmentation, and closed-loop attribution into unified ad surfaces\u2014creating a scale advantage for national players.",
-      "so_what": "Regional grocers can't compete on volume, but you can compete on exclusivity. Your first-party data is local, specific, and non-commoditized. Use conversion-based customer lists to target high-value shoppers with personalized offers that reflect their actual purchase behavior\u2014not lookalike proxies. The advantage is depth and relevance, not scale."
+      "whats_happening": "McKinsey data shows omnichannel shoppers (in-store + online) spend 31% more than single-channel customers. Delivery growth is outpacing pickup 3:1. This isn't a defensive channel \u2014 it's a growth engine. Google's June spam update (completed June 24\u201326) emphasized quality, speed, mobile usability, and expert trust as core ranking signals. LinkedIn upgraded search with AI-powered conversational intent matching, prioritizing credible profiles with demonstrated authority over keyword-stuffed bios.",
+      "so_what": "Design omnichannel strategies that serve multiple missions \u2014 quick trips, big baskets, delivery, pickup, in-store. Invest in inventory visibility and unified loyalty. Make sure your site is fast, mobile-optimized, and substantive. If your team has B2B roles, focus LinkedIn profiles on specific expertise and proof, not keywords."
     }
   ],
-  "this_weeks_take": "Fresh quality now drives loyalty more than price. If your marketing isn't centered on the departments that build trust\u2014produce, deli, bakery, meat\u2014you're leaving the moat unfilled. National players have scale; regional grocers have stories. Use them."
+  "this_weeks_take": "The grocery store is no longer just a place to buy food. It's a media channel, a fulfillment node, and a restaurant competitor. Regional grocers who treat these as integrated systems \u2014 not separate problems \u2014 will capture wallet share that nationals can't."
 }
