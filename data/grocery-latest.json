@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-06-29",
+  "week_of": "2026-07-06",
   "generated_at": "05:20",
-  "week_in_brief": "The channel boundaries are dissolving \u2014 delivery outpacing pickup, store space becoming a media asset, and prepared foods now competing directly with restaurants.",
+  "week_in_brief": "The ground shifted for regional grocers: full ad automation became mandatory, private label crossed 95%, and a state banned AI pricing\u2014all in the same week.",
   "items": [
     {
-      "headline": "Delivery Wins the Format War \u2014 Speed Isn't the Whole Answer",
+      "headline": "Platform AI Now Runs Your Campaigns",
+      "tag": "\ud83e\udd16 AI & Tools",
+      "whats_happening": "Google Ads updated its Terms of Service on July 1, making AI-driven creative generation and campaign optimization the default setting. Advertisers can no longer disable automation\u2014Google's systems now control creative, bidding, and budget allocation. TikTok launched its Agentic Hub marketplace for AI campaign management; Meta revealed a complete AI advertising system at Cannes. The shift is industry-wide: marketing platforms are moving to autonomous operation.",
+      "so_what": "You must audit what these systems are doing with your budget, especially across multiple locations. Build first-party data (email, purchase history, loyalty behavior) aggressively\u2014it's the only lever you control when platforms automate everything else."
+    },
+    {
+      "headline": "Private Label Outpaces National Brands for First Time",
       "tag": "\ud83d\uded2 Shopper Shift",
-      "whats_happening": "Same-day delivery now accounts for 65% of online grocery fulfillment (vs. 35% for pickup), driven by Walmart's 30-minute rollout in 33 markets and Amazon's 2,300-city expansion. But McKinsey's research shows consumers overwhelmingly prefer full assortment over ultra-fast delivery with limited selection. Meanwhile, Google restored the ability to create Dynamic Search Ads and delayed AI Max migration until February 2027, reinforcing that proven tactics still matter while automation stabilizes.",
-      "so_what": "Don't race Walmart on speed. Invest in pickup networks and micro-fulfillment that protect margins and offer full assortment. DSAs remain a reliable backup while you test AI Max \u2014 keep both in rotation."
+      "whats_happening": "Daymon's Q2 report shows 95% of US consumers now buy private label, with 69% purchasing on most or every trip. Private label unit sales outpassed national brands for the first time. AWG added 64 new private label items in Q2 alone. The shift isn't about discounting anymore\u2014it's about quality, values, and trust. Shoppers view private label as a primary choice, not a fallback.",
+      "so_what": "Your owned brand is your marketing moat. Invest in quality, packaging, and storytelling that reflects your community identity. National chains can't replicate your local credibility\u2014lean into that. Recalibrate CPG partnerships around co-marketing your private label, not just theirs."
     },
     {
-      "headline": "Your Store Is Now a Media Channel",
-      "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Physical store space is shifting from promotional zones to monetizable media assets. Brands are investing in 60\u201390 day experiential activations at front-of-store and inline zones, creating predictable revenue and dwell time. At the same time, TikTok expanded Symphony AI creative tools to generate platform-native video from text or images, enabling multi-location retailers to scale trend-responsive content without increasing budgets. Meta is now using third-party purchase and browsing data to personalize Feed content and AI responses across platforms.",
-      "so_what": "Develop clear policies, pricing, and category protocols for in-store experiences \u2014 this is steady margin and engagement for regional chains competing with big-box assortment. Pair that with TikTok's video tools to turn those experiences into content at scale. Make sure your product catalog and event tracking are accurate; Meta's using that data for more than ads now."
-    },
-    {
-      "headline": "Prepared Foods and Private Label Aren't Support Categories Anymore",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "25% of consumers now buy grocery-prepared foods as a restaurant substitute, with younger shoppers leading the shift. Walmart is promoting family meals under $10; Sam's Club expanded fresh and launched fruit-chopping programs. Prepared foods drive the highest trip frequency. Meanwhile, private label hit 50% unit share across Europe's largest markets, with consumers no longer seeing quality gaps between store brands and nationals. Google also launched Generative AI Performance Reports in Search Console, making AEO quantifiable \u2014 you can now track visibility across traditional search and AI Overviews in one dashboard.",
-      "so_what": "Treat prepared foods and private label as profit and loyalty drivers, not loss leaders. Invest in hot bars, deli innovation, and premium private label positioning. Track your AI search visibility alongside organic \u2014 it's finally measurable."
-    },
-    {
-      "headline": "Omnichannel Shoppers Spend 31% More \u2014 Build for That",
+      "headline": "New Jersey Bans AI Surveillance Pricing; ESL Pause",
       "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "McKinsey data shows omnichannel shoppers (in-store + online) spend 31% more than single-channel customers. Delivery growth is outpacing pickup 3:1. This isn't a defensive channel \u2014 it's a growth engine. Google's June spam update (completed June 24\u201326) emphasized quality, speed, mobile usability, and expert trust as core ranking signals. LinkedIn upgraded search with AI-powered conversational intent matching, prioritizing credible profiles with demonstrated authority over keyword-stuffed bios.",
-      "so_what": "Design omnichannel strategies that serve multiple missions \u2014 quick trips, big baskets, delivery, pickup, in-store. Invest in inventory visibility and unified loyalty. Make sure your site is fast, mobile-optimized, and substantive. If your team has B2B roles, focus LinkedIn profiles on specific expertise and proof, not keywords."
+      "whats_happening": "New Jersey passed the first state law banning AI-driven dynamic pricing and placing a moratorium on electronic shelf labels in grocery stores. The law prohibits using surveillance data to charge different prices for the same product at the same store. Expect other states to follow\u2014this is consumer backlash meeting regulatory momentum.",
+      "so_what": "If you operate in or near New Jersey, clarify your pricing transparency now. Even if you're not using dynamic pricing, shoppers are suspicious\u2014name your pricing strategy publicly and tie it to fairness and consistency. That messaging matters more than the technology you're not using."
+    },
+    {
+      "headline": "GLP-1 and Platform Control Push First-Party Capture",
+      "tag": "\ud83e\udde0 Strategy",
+      "whats_happening": "GLP-1 users now reduce grocery spending by 2.7% annually, with heavy cuts in impulse and snacking categories but growth in protein and wellness. At the same time, platforms (Google, Meta, TikTok) automated campaign execution and eliminated opt-outs. SMS earns $0.74 per send versus $0.15 for generic campaigns\u2014a 5x difference driven by behavioral triggers and owned audience data. Zero-click searches now account for 68% of Google queries; visibility depends on earned media and citations, not just paid ads.",
+      "so_what": "Capture shopper data at checkout and through loyalty. Use SMS for time-sensitive offers tied to behavior, not segments. Adjust category mix toward protein, prepared wellness, and functional beverages\u2014and make sure your marketing reflects those shifts. Earned media (PR, community participation, expert content) now rivals paid for visibility in AI-driven search."
     }
   ],
-  "this_weeks_take": "The grocery store is no longer just a place to buy food. It's a media channel, a fulfillment node, and a restaurant competitor. Regional grocers who treat these as integrated systems \u2014 not separate problems \u2014 will capture wallet share that nationals can't."
+  "this_weeks_take": "Regional grocers face a new operating reality: platforms control the campaigns, private label is the primary brand, and shoppers distrust surveillance. Your advantage is what the nationals can't automate\u2014local trust, community positioning, and first-party relationships built in-store. Own that or lose it."
 }
