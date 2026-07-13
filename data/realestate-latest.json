@@ -1,32 +1,33 @@
 {
   "vertical": "realestate",
-  "week_of": "2026-07-06",
+  "week_of": "2026-07-13",
   "generated_at": "05:10",
-  "week_in_brief": "Home values fell in real terms for the 11th straight month while first-time buyers hit a six-year high \u2014 and AI search platforms started scraping MLS data without asking.",
+  "week_in_brief": "The market has balanced, but your marketing probably hasn't caught up yet.",
   "items": [
     {
-      "headline": "Real Home Values Down 11 Months Running",
-      "tag": "\ud83c\udfe0 Market Shift",
-      "whats_happening": "Case-Shiller shows nominal home price growth of just 0.8% year-over-year in April, but when you adjust for 3.8% inflation, real values have been falling for 11 straight months. Regional splits are extreme: Chicago up 6.5%, Seattle down 2.3%. Meanwhile, seller concessions hit 46% this spring \u2014 the highest rate since 2019.",
-      "so_what": "Your marketing can't pretend it's still a seller's market. In softening regions, lead with buyer incentives (credits, buydowns, repairs) and stop running urgency campaigns that make you look out of touch with what sellers are actually experiencing."
+      "headline": "Market Finally Balanced \u2014 But Marketing Still Screaming",
+      "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
+      "whats_happening": "44% of agents now report balanced buyer-seller conditions, up from 30% nine months ago (CNBC). Asking prices dropped 2.5% year-over-year\u2014the largest decline since tracking began. Contract cancellations fell from 51% to 40%. The market isn't hot or cold. It's reasonable.",
+      "so_what": "Your campaign creative, agent scripts, and property descriptions still running urgency language from 2022 are undermining credibility. Message realistic pricing, balanced negotiation, and informed decision-making\u2014because that's the actual market now."
     },
     {
-      "headline": "First-Time Buyers Back \u2014 And They Want AI Help First",
-      "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "First-time buyers now represent 35% of all purchases, the highest share since June 2020, driven by rising inventory and fewer bidding wars. One in five prospective buyers are using AI tools or chatbots for initial home research \u2014 and for Gen Z, that number jumps to 32%. They're using AI for affordability estimates, market research, and neighborhood analysis before they ever talk to an agent.",
-      "so_what": "This is a new lead generation channel, and it requires specific work. Agents need visibility in ChatGTT, Gemini, and Perplexity \u2014 not just Google. If your agents aren't being cited in AI search results when someone asks \"best neighborhoods under $400K in [your city],\" you're invisible to the fastest-growing buyer segment."
+      "headline": "YouTube Crushes Reddit for AI Citations \u2014 And Long-Form Wins Big",
+      "tag": "\ud83c\udff7\ufe0f \ud83d\udcf1 Channel Update",
+      "whats_happening": "YouTube appears in 16% of AI-generated answers across major platforms\u2014more than Reddit (10%) and Google.com (7.5%). 94% of those citations come from long-form content, not Shorts, and structure (transcripts, chapter markers, direct answers) drives citation frequency more than subscriber count (New Engen / Bluefish Data).",
+      "so_what": "If your agents are only doing Instagram Reels and TikTok, they're invisible to the AI systems buyers use for initial research. Creator-led, answer-forward YouTube content is now the highest-leverage format for AI discovery. Commission structured Q&A videos, optimize transcripts, and brief agents to answer questions\u2014not pitch listings."
     },
     {
-      "headline": "AI Platforms Scraping MLS Data Without Permission",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "ChatGPT, Gemini, Perplexity, and others are now surfacing MLS listings attributed to Zillow and other portals \u2014 feeding buyer queries directly into AI environments without MLS authorization or broker control. Zillow launched the first ChatGPT integration in October 2025; Redfin and Realtor.com followed. The mechanism bypasses IDX policy guardrails that have governed MLS data display for 25 years. NAR has deferred enforcement, leaving 580+ MLS to assess compliance independently.",
-      "so_what": "Td`us is a foundational issue for owned lead generation. If AI platforms are scraping your listings through portals without your permission, you're losing control over how your inventory appears and who owns the lead relationship. Push your MLS to clarify authorization rules \u2014 and start treating AI visibility as a channel you need to own, not rent."
+      "headline": "Data Centers Are Warping Property Values \u2014 Agents Need Local Maps",
+      "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
+      "whats_happening": "Over 5,400 data centers are operating or planned nationwide. Properties on developer shortlists get $360K/acre offers when comps are $25K. Properties near construction struggle to close. Appraisers are calling it a \"state of flux.\" Pricing is hyper-local chaos (HousingWire).",
+      "so_what": "If you're in Texas, Virginia, or Georgia markets\u2014or any region with data center development pipelines\u2014your agents need those maps now. Properties can simultaneously gain regional value (job growth) and lose individual value (noise, water concerns). The ones who know which addresses are affected own pricing credibility. The ones who don't will lose deals to competitors who do."
     },
     {
-      "headline": "Compass Rolls Out Home Platform to 340,000 Agents",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Compass is deploying its AI-powered Home Platform to agents at Coldwell Banker Realty, Corcoran, and Sotheby's International Realty \u2014 brands it acquired from Anywhere Real Estate. The platform bundles market analysis, buyer prospecting, and listing performance into a unified agent workflow. Compass is calling it the largest tech deployment in residential real estate history.",
-      "so_what": "Compass is betting it can monetize a 340,000-agent network through proprietary data advantages. For regional brokerages, this is your cue: the competitive counterweight is local brand strength, agent autonomy, and the kind of personalized marketing support that national platforms can't replicate at scale."
+      "headline": "Instagram Testing Per-Slide Captions \u2014 Every Frame Is Now Searchable",
+      "tag": "\ud83c\udff7\ufe0f \ud83d\udcf1 Channel Update",
+      "whats_happening": "Instagram is testing independent captions for each slide in a carousel. Each photo or video gets its own context, search keywords, and call-to-action\u2014instead of one blanket caption. It's micro-SEO within a single post (FINN Partners).",
+      "so_what": "Stop treating carousels as slideshows. Treat them as answer sequences. Each slide should address a distinct buyer question, use distinct search terms, and guide to a specific next step. Open houses, property tours, and listing features should break into searchable beats\u2014not pretty visuals with one generic caption. This is how you build compounding visibility inside platform search."
     }
-  C,ˆ	"this_weeks_take": "The market is softening, the buyer mix is shifting, and AI platforms are scraping your data without asking. This is the week you stop pretending it's 2022 and start building marketing that reflects the market people are actually in."
+  ],
+  "this_weeks_take": "The market balanced months ago. Your marketing needs to catch up. Buyers don't respond to urgency anymore\u2014they respond to clarity, structure, and expertise. The operators who update their messaging and invest in searchable, AI-cited content now will dominate discovery while competitors keep running last year's playbook."
 }
