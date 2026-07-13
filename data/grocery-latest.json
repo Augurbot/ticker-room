@@ -1,33 +1,33 @@
 {
   "vertical": "grocery",
-  "week_of": "2026-07-06",
+  "week_of": "2026-07-13",
   "generated_at": "05:20",
-  "week_in_brief": "The ground shifted for regional grocers: full ad automation became mandatory, private label crossed 95%, and a state banned AI pricing\u2014all in the same week.",
+  "week_in_brief": "Shopper loyalty collapsed, AI discovery platforms shifted to creator content, and retail media became viable infrastructure for regional chains\u2014not just the nationals.",
   "items": [
     {
-      "headline": "Platform AI Now Runs Your Campaigns",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "Google Ads updated its Terms of Service on July 1, making AI-driven creative generation and campaign optimization the default setting. Advertisers can no longer disable automation\u2014Google's systems now control creative, bidding, and budget allocation. TikTok launched its Agentic Hub marketplace for AI campaign management; Meta revealed a complete AI advertising system at Cannes. The shift is industry-wide: marketing platforms are moving to autonomous operation.",
-      "so_what": "You must audit what these systems are doing with your budget, especially across multiple locations. Build first-party data (email, purchase history, loyalty behavior) aggressively\u2014it's the only lever you control when platforms automate everything else."
-    },
-    {
-      "headline": "Private Label Outpaces National Brands for First Time",
+      "headline": "National Brand Loyalty Is Dead; Your Store Is the Brand Now",
       "tag": "\ud83d\uded2 Shopper Shift",
-      "whats_happening": "Daymon's Q2 report shows 95% of US consumers now buy private label, with 69% purchasing on most or every trip. Private label unit sales outpassed national brands for the first time. AWG added 64 new private label items in Q2 alone. The shift isn't about discounting anymore\u2014it's about quality, values, and trust. Shoppers view private label as a primary choice, not a fallback.",
-      "so_what": "Your owned brand is your marketing moat. Invest in quality, packaging, and storytelling that reflects your community identity. National chains can't replicate your local credibility\u2014lean into that. Recalibrate CPG partnerships around co-marketing your private label, not just theirs."
+      "whats_happening": "Zappi data shows exclusive national-brand loyalty fell from 21% to 10% in under a year. Nine in ten shoppers changed buying habits due to cost pressure. Even Whole Foods slashed 900+ private label prices to combat its 'Whole Paycheck' reputation. Meanwhile, private label unit share hit 23.8%\u2014a new high\u2014while dollar sales flat-lined as national brands kept raising prices. FMI confirms 76% of food retailers now prioritize private brands as their primary differentiation strategy.",
+      "so_what": "The era of riding national brand equity is over. Shoppers are mixing banners, categories, and formats based on value\u2014not loyalty. Your private label, fresh departments, and community identity are the only defensible positioning you have. Premium doesn't survive on brand alone anymore; accessible quality wins."
     },
     {
-      "headline": "New Jersey Bans AI Surveillance Pricing; ESL Pause",
+      "headline": "YouTube Just Became Your AI Visibility Strategy",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "YouTube now appears in 16% of all LLM-generated answers\u2014more than Reddit, Google.com, or Instagram. Critically, 94% of those citations come from long-form content, not Shorts, and they're driven by structure (transcripts, chapter markers, direct question-answering) rather than subscriber count. Separately, Google launched platform properties in Search Console, letting brands track how TikTok, Instagram, YouTube, and X content performs in Google Search and Discover\u2014consolidating social and search visibility metrics for the first time.",
+      "so_what": "If you're not creating answer-forward YouTube content with creators or staff, you're invisible to the AI systems shoppers use first. Social is no longer separate from search\u2014it's indexed, cited, and measured as one discovery layer. Invest in long-form, structured video content that answers actual shopper questions about meal planning, recipes, and product comparisons."
+    },
+    {
+      "headline": "TikTok Banned AI Voices; Meta Built Forum; Human Presence Just Got More Valuable",
+      "tag": "\ud83e\udd16 AI & Tools",
+      "whats_happening": "TikTok banned AI-generated voices from shopping livestreams and now requires real human engagement or sign language. Violations trigger enforcement through the Creator Health Rating system, including commission restrictions and account bans. Meanwhile, Meta launched Forum\u2014a Reddit-style community app\u2014and Meta AI Mode now synthesizes answers from public Facebook Groups and Reels, turning years of user-generated content into an AI-searchable knowledge base. Separately, research shows consumers are 4\u00d7 more likely to distrust brands when they spot AI-generated marketing content.",
+      "so_what": "Automation just hit a wall. Shoppers trust human voices, and platforms are enforcing it. If you have public customer-support groups, audit them immediately\u2014unresolved complaints now feed directly into AI-generated answers for prospective customers. Real engagement, real resolution, and real people are competitive advantages again."
+    },
+    {
+      "headline": "Regional Chains Own Retail Media Now; Raley's Just Proved It",
       "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "New Jersey passed the first state law banning AI-driven dynamic pricing and placing a moratorium on electronic shelf labels in grocery stores. The law prohibits using surveillance data to charge different prices for the same product at the same store. Expect other states to follow\u2014this is consumer backlash meeting regulatory momentum.",
-      "so_what": "If you operate in or near New Jersey, clarify your pricing transparency now. Even if you're not using dynamic pricing, shoppers are suspicious\u2014name your pricing strategy publicly and tie it to fairness and consistency. That messaging matters more than the technology you're not using."
-    },
-    {
-      "headline": "GLP-1 and Platform Control Push First-Party Capture",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "GLP-1 users now reduce grocery spending by 2.7% annually, with heavy cuts in impulse and snacking categories but growth in protein and wellness. At the same time, platforms (Google, Meta, TikTok) automated campaign execution and eliminated opt-outs. SMS earns $0.74 per send versus $0.15 for generic campaigns\u2014a 5x difference driven by behavioral triggers and owned audience data. Zero-click searches now account for 68% of Google queries; visibility depends on earned media and citations, not just paid ads.",
-      "so_what": "Capture shopper data at checkout and through loyalty. Use SMS for time-sensitive offers tied to behavior, not segments. Adjust category mix toward protein, prepared wellness, and functional beverages\u2014and make sure your marketing reflects those shifts. Earned media (PR, community participation, expert content) now rivals paid for visibility in AI-driven search."
+      "whats_happening": "Raley's (208 stores across CA, NV, AZ) launched an in-store retail media network powered by Grocery TV, competing directly with Instacart, Amazon, and Walmart. A new Grocery TV survey found 62% of shoppers notice location-based in-store ads, with checkout, deli, and pharmacy formats driving 2.5\u00d7 higher brand consideration. Regional chains are realizing that owning customer data and the selling relationship to CPG is a structural advantage, not a feature reserved for national players.",
+      "so_what": "Retail media is no longer a national-chain exclusive. You can co-invest with CPG brands on location-based, data-informed promotions and monetize shopper insights faster than third-party platforms\u2014with higher margins. This shifts negotiating power back to you. If you're not building or joining a retail media network, you're leaving money and control on the table."
     }
   ],
-  "this_weeks_take": "Regional grocers face a new operating reality: platforms control the campaigns, private label is the primary brand, and shoppers distrust surveillance. Your advantage is what the nationals can't automate\u2014local trust, community positioning, and first-party relationships built in-store. Own that or lose it."
+  "this_weeks_take": "Loyalty to national brands is gone. Shoppers are mixing banners, categories, and AI discovery tools to find value. The only thing they'll stay loyal to is the store that knows them, the private label that delivers, and the community they recognize. That's you\u2014if you own it."
 }
