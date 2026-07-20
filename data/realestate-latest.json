@@ -1,33 +1,33 @@
 {
   "vertical": "realestate",
-  "week_of": "2026-07-13",
+  "week_of": "2026-07-20",
   "generated_at": "05:10",
-  "week_in_brief": "The market has balanced, but your marketing probably hasn't caught up yet.",
+  "week_in_brief": "Inventory hit its lowest point since January while pending sales declined—a market cooling under seller hesitation and rate pressure.",
   "items": [
     {
-      "headline": "Market Finally Balanced \u2014 But Marketing Still Screaming",
-      "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
-      "whats_happening": "44% of agents now report balanced buyer-seller conditions, up from 30% nine months ago (CNBC). Asking prices dropped 2.5% year-over-year\u2014the largest decline since tracking began. Contract cancellations fell from 51% to 40%. The market isn't hot or cold. It's reasonable.",
-      "so_what": "Your campaign creative, agent scripts, and property descriptions still running urgency language from 2022 are undermining credibility. Message realistic pricing, balanced negotiation, and informed decision-making\u2014because that's the actual market now."
+      "headline": "Inventory at Yearly Low While Pending Sales Fall",
+      "tag": "🏷️ 🏠 Market Shift",
+      "whats_happening": "Pending sales dropped 2.2% week-over-week, the first monthly decline in weeks. New listings fell to the lowest level since the start of 2026. Sellers are holding back under 6.49% mortgage rates and economic uncertainty, even as median sale prices remain just $800 below the all-time high at $408,804. The market isn't crashing—it's hesitating.",
+      "so_what": "Lead generation strategy built for spring volume will overspend in this environment. Shift budget from broad buyer campaigns to targeted seller recruitment. Your agents need messaging that addresses rate-lock reluctance and shows realistic pricing paths in a supply-starved market."
     },
     {
-      "headline": "YouTube Crushes Reddit for AI Citations \u2014 And Long-Form Wins Big",
-      "tag": "\ud83c\udff7\ufe0f \ud83d\udcf1 Channel Update",
-      "whats_happening": "YouTube appears in 16% of AI-generated answers across major platforms\u2014more than Reddit (10%) and Google.com (7.5%). 94% of those citations come from long-form content, not Shorts, and structure (transcripts, chapter markers, direct answers) drives citation frequency more than subscriber count (New Engen / Bluefish Data).",
-      "so_what": "If your agents are only doing Instagram Reels and TikTok, they're invisible to the AI systems buyers use for initial research. Creator-led, answer-forward YouTube content is now the highest-leverage format for AI discovery. Commission structured Q&A videos, optimize transcripts, and brief agents to answer questions\u2014not pitch listings."
+      "headline": "\"Coming Soon\" Listings Rewrite the Launch Playbook",
+      "tag": "🏷️ 🧠 Strategy",
+      "whats_happening": "More sellers are adopting \"coming soon\" soft-launch strategies—marketing homes before listing on all major portals. This staged approach reduces pressure to nail a one-shot listing impression and shifts control to the seller, but it complicates buyer search and fragments traditional day-one visibility.",
+      "so_what": "Train your agents to pitch pre-marketing as a strategic advantage, not a compromise. Build workflows for staged content rollout: exclusive email lists, agent networks, social teaser campaigns. The brokerage that helps agents orchestrate a phased launch earns the listing."
     },
     {
-      "headline": "Data Centers Are Warping Property Values \u2014 Agents Need Local Maps",
-      "tag": "\ud83c\udff7\ufe0f \ud83c\udfe0 Market Shift",
-      "whats_happening": "Over 5,400 data centers are operating or planned nationwide. Properties on developer shortlists get $360K/acre offers when comps are $25K. Properties near construction struggle to close. Appraisers are calling it a \"state of flux.\" Pricing is hyper-local chaos (HousingWire).",
-      "so_what": "If you're in Texas, Virginia, or Georgia markets\u2014or any region with data center development pipelines\u2014your agents need those maps now. Properties can simultaneously gain regional value (job growth) and lose individual value (noise, water concerns). The ones who know which addresses are affected own pricing credibility. The ones who don't will lose deals to competitors who do."
+      "headline": "Google Now Tracks Which Searches Send People to Your Social Content",
+      "tag": "🏷️ 📊 Data & Measurement",
+      "whats_happening": "Google Search Console added reporting that shows which search queries direct users to your posts on Instagram, TikTok, X, and YouTube—not just your website. You no longer need a website to track search-driven traffic to social content.",
+      "so_what": "If your search visibility strategy ends at organic web rankings, you're missing the traffic your agents' social content already generates from search. Track it. Optimize for it. Structure agent social posts like Q&A content so Google can surface them as answers. Search visibility is now multi-platform."
     },
     {
-      "headline": "Instagram Testing Per-Slide Captions \u2014 Every Frame Is Now Searchable",
-      "tag": "\ud83c\udff7\ufe0f \ud83d\udcf1 Channel Update",
-      "whats_happening": "Instagram is testing independent captions for each slide in a carousel. Each photo or video gets its own context, search keywords, and call-to-action\u2014instead of one blanket caption. It's micro-SEO within a single post (FINN Partners).",
-      "so_what": "Stop treating carousels as slideshows. Treat them as answer sequences. Each slide should address a distinct buyer question, use distinct search terms, and guide to a specific next step. Open houses, property tours, and listing features should break into searchable beats\u2014not pretty visuals with one generic caption. This is how you build compounding visibility inside platform search."
+      "headline": "Cox Automotive Backs Neutral Valuation Over Portal Speed",
+      "tag": "🏷️ 🧠 Strategy",
+      "whats_happening": "Kelley Blue Book's parent company partnered with TrueFootage to create a new valuation pathway emphasizing independent third-party validation over algorithm-driven portal estimates. After 15 years of portals competing on speed and data, sellers increasingly want neutral validation before committing to six- or seven-figure decisions.",
+      "so_what": "This is the counter to portal commoditization. Position your agents as trusted advisors who provide validation and counsel—not just portal access. Build your seller pitch around independent valuation confidence, not Zestimate debates."
     }
   ],
-  "this_weeks_take": "The market balanced months ago. Your marketing needs to catch up. Buyers don't respond to urgency anymore\u2014they respond to clarity, structure, and expertise. The operators who update their messaging and invest in searchable, AI-cited content now will dominate discovery while competitors keep running last year's playbook."
+  "this_weeks_take": "The market is hesitating, not collapsing. Sellers are waiting for certainty. Your marketing must reflect the reality they're living in—not the urgency narrative from 2022. Trust beats volume right now."
 }
