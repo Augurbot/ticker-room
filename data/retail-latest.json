@@ -1,33 +1,33 @@
 {
   "vertical": "retail",
-  "week_of": "2026-07-20",
+  "week_of": "2026-07-27",
   "generated_at": "04:50",
-  "week_in_brief": "The platforms got more automated, loyalty got less effective, and delivery data became the price of admission\u2014a typical week where the infrastructure shifted faster than most teams could notice.",
+  "week_in_brief": "Strong retail sales numbers are masking real affordability pressure, and the timing of back-to-school is exposing which operators understand their customers' actual behavior.",
   "items": [
     {
-      "headline": "Loyalty Membership Hit 82%, But Persuasion Dropped to Record Lows",
+      "headline": "Back-to-School Budgeting Starts Early; Buying Happens Late",
       "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "Grocery loyalty programs now claim 82% membership, but the average shopper holds 3.4 programs in the same category\u2014up 47% since 2023. Behavioral influence per member dropped to 39.2 out of 100, the lowest score across all retail segments tracked by The Shelby Report. The problem: most programs reward committed customers instead of the 60% \"preference-first\" shoppers who have brand affinity but remain price-sensitive and persuadable. Separate research from Dotdigital reinforces the gap\u201453% of consumers say loyalty programs drive repeat purchases, but only 15% find the marketing around them relevant.",
-      "so_what": "You're rewarding people who were already coming back. Shift loyalty incentives toward the 90% of members who still shop around\u2014personalized, performance-based offers that trigger on behavior, not blanket promotions sent to everyone with a card."
+      "whats_happening": "Families set budgets before July (61%), but half defer purchases until July\u2013August. That creates a compressed window where 96% say promotions influence what they buy and 71% will switch brands on price. Private-label penetration climbed to 51% as inflation-fatigued shoppers push back on pricing.",
+      "so_what": "You need visibility during research and flawless execution during the surge. That means real-time inventory feeds, coordinated cross-channel promotion, and private-label positioning that doesn't apologize for being the value option."
     },
     {
-      "headline": "Meta Deleted the Off-Platform Opt-Out; Your Retargeting Pools Just Expanded",
+      "headline": "ChatGPT Opened Self-Serve Ads; Google Rolled LSAs Into Main Platform",
       "tag": "\ud83d\udcf1 Channel Update",
-      "whats_happening": "Meta removed the privacy control that let users disconnect their off-site browsing and purchase activity from their profiles. Previously opted-out users are now automatically re-linked, expanding retargeting audiences without you doing anything. That off-platform data now feeds three surfaces: ad targeting, organic feed recommendations, and Meta AI responses. The change doesn't apply in the EU under GDPR, creating a split system\u2014strong protections in regulated markets, unrestricted tracking elsewhere.",
-      "so_what": "Your retargeting audience pools grew in July without warning. If you compare June and July ROAS or frequency without adjusting for this change, your numbers will look distorted. Baseline your audiences now and segment EU traffic separately if you run international campaigns."
+      "whats_happening": "OpenAI launched a self-serve ad platform (no $200K minimum, credit card accepted) targeting free ChatGPT users with context-based ads rather than keywords. Google moved Local Service Ads into the main Ads platform as a Performance Max pay-per-lead campaign type, ending the standalone LSA dashboard.",
+      "so_what": "ChatGPT is a new attention surface with thin reporting and limited inventory, but it's worth testing if your audience skews toward early AI adopters. The LSA migration matters more immediately\u2014prepare for tighter lead-quality guardrails as automation increases, especially if you run LSAs for service categories."
     },
     {
-      "headline": "AI Shopping Agents Are Reading Your Delivery Menu Before Customers Ever See Your Site",
+      "headline": "AI-Powered Loyalty Integration Now Part of Core Marketing Infrastructure",
       "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "AI agents now drive measurable retail sales\u2014$262 billion during the 2025 holiday season\u2014and agent-referred traffic converted 42% better than typical traffic in Q1 2026. The catch: agents evaluate retailers by reading machine-readable delivery data (options, costs, dates, return terms) before sending shoppers your way. Regional chains without structured delivery information are invisible to agents, according to research from nShift and Chain Store Age. This isn't a future-looking strategy question\u2014it's current-quarter conversion performance.",
-      "so_what": "Audit what AI agents can extract from your site right now. If your delivery terms aren't structured and consistent across locations, you're losing to competitors whose data is cleaner. This is a solvable data hygiene problem with immediate conversion impact."
+      "whats_happening": "Dotdigital released a native loyalty platform (points, tiers, rewards, Shopify integration) and Klaviyo integrated Yotpo for loyalty-triggered email and SMS flows. Loyalty data can now feed personalization in real-time across every channel, shifting loyalty from a bolted-on rewards program to core marketing infrastructure.",
+      "so_what": "If you're still running legacy loyalty on a disconnected system, the competitive gap is widening. Unified platforms are making omnichannel loyalty table stakes\u2014act now before integration depth becomes the difference between retention and churn."
     },
     {
-      "headline": "Meta Opened Its Ads MCP Server; Your Ad Platform Just Became Programmable",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "Meta opened its Model Context Protocol server to any developer, ending the custom integration code that previously kept AI agents from managing Meta campaigns. Agents can now create, edit, and delete campaigns; manage audiences; run performance queries; and execute A/B tests through natural language. The first-party data angle is what matters: Snowflake, Salesforce, and Triple Whale are embedding the server into their platforms, letting agents route customer data from CDPs and CRMs directly into ad execution without your marketing team writing code.",
-      "so_what": "Your ad platform just became programmable without needing engineers. If your MarTech stack connects to Meta's infrastructure, your competitors' already does. Evaluate whether your current stack can plug into this before the performance gap becomes measurable."
+      "headline": "Shelf-Level AI Goes Operational at 4,000+ Stores",
+      "tag": "\ud83d\uded2 Retail Shift",
+      "whats_happening": "Anderson Merchandisers deployed Seekr's Vision Language Models to in-store associates, enabling real-time correction of planogram deviations, out-of-stocks, and pricing errors. Every store visit becomes an auditable execution record. The shift from monitoring to correction signals that associate-facing AI tools are maturing beyond pilot programs.",
+      "so_what": "Budget-conscious operators can now evaluate whether handheld AI guidance justifies capital investment and training time. If your associates are already struggling with execution consistency, this is the category to watch."
     }
   ],
-  "this_weeks_take": "Automation and AI scaled faster than marketing teams this week\u2014ad platforms became programmable, loyalty engagement weakened under its own ubiquity, and discovery infrastructure now requires machine-readable data just to show up. The regional operators who win this shift will treat their data and workflows like products, not afterthoughts."
+  "this_weeks_take": "AI is moving from the campaign layer into the store floor, and loyalty is moving from the rewards catalog into the marketing stack. The operators who treat both as infrastructure\u2014not projects\u2014are the ones who'll handle the next wave of consumer price pressure without bleeding margin."
 }
