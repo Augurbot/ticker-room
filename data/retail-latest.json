@@ -1,33 +1,33 @@
 {
   "vertical": "retail",
-  "week_of": "2026-08-10",
+  "week_of": "2026-08-17",
   "generated_at": "04:50",
-  "week_in_brief": "Back-to-school price aggression is here, AI is officially deciding what gets bought, and Google just turned social media into a search traffic channel.",
+  "week_in_brief": "If ChatGPT is answering product questions with your Yelp data and Google is measuring your Instagram Reels as search content, your marketing channels just multiplied without asking permission.",
   "items": [
     {
-      "headline": "Google Just Gave You Social Media Attribution\u2014Use It",
-      "tag": "\ud83d\udcca Data & Measurement",
-      "whats_happening": "Google Search Console now tracks which queries lead to impressions and clicks on your Instagram, YouTube, TikTok, and X profiles\u2014plus which individual posts perform best. It's the first unified view of how social discovery contributes to traffic and brand visibility. You need to verify property ownership first; data populates within a few days.",
-      "so_what": "Add all your social properties to GSC this week. You've been flying blind on which social content actually drives search visibility and clicks. Now you can see it."
-    },
-    {
-      "headline": "AI Shoppers Don't Care About Your Brand\u2014They Care About Your Data",
-      "tag": "\ud83e\udd16 AI & Tools",
-      "whats_happening": "AI shopping agents are projected to jump from 19% to 46% adoption by year-end. They research, compare, and buy products on behalf of users\u2014but they choose based on clean product feeds, accurate pricing, clear attributes, and machine-readable trust signals, not brand recognition or ad spend. Braze calls it Generative Engine Optimization. Google calls it AI Mode. Either way, it's a sales channel now.",
-      "so_what": "Audit your product feed quality and structured delivery data right now. Small businesses with clean, machine-readable inventory can outrank bigger competitors with messy websites. This is no longer a tech conversation\u2014it's a revenue conversation."
-    },
-    {
-      "headline": "Back-to-School Pricing Is a Floor, Not a Promotion",
+      "headline": "ChatGPT Now Uses Yelp to Recommend You\u2014Whether You Know It or Not",
       "tag": "\ud83d\uded2 Retail Shift",
-      "whats_happening": "Walmart claims its lowest back-to-school prices in seven years. Target reduced its entire selection below last year's pricing. Staples and regional chains are matching. Sixty-one percent of shoppers set their budgets before July, and they're shopping on value, not on deal urgency. For regional marketing leaders, this isn't promotion season\u2014it's proof-of-value season.",
-      "so_what": "Lead with value messaging, not promotional mechanics. If you're running coupons and discounts without clear everyday pricing visibility, you're answering the wrong question. Shoppers already decided what they'll spend. Now they're deciding where."
+      "whats_happening": "OpenAI licensed Yelp's reviews, photos, ratings, and business data to build ChatGPT's local search answers. When someone asks ChatGPT where to eat or shop, Yelp data shapes the reply\u2014with Yelp branding and direct quote-request paths. Meanwhile, regional retailers are already dealing with AI shopping assistants of their own: Schnucks just launched an agentic AI tool built with VitalityIP, joining Walmart, Kroger, and Albertsons in the race to intercept purchase decisions before ChatGPT or third-party agents capture them. The message is clear: AI platforms are now visibility channels. Messy or incomplete Yelp listings get repeated by AI. Product feeds determine what gets recommended.",
+      "so_what": "Claim and clean your Yelp profile this month\u2014outdated hours, missing photos, or thin descriptions now matter as much as your GMB listing did five years ago. If your product feed isn't structured and current, you're invisible to agents making purchase recommendations."
     },
     {
-      "headline": "Shoppers Want Stores, Not Innovation",
-      "tag": "\ud83e\udde0 Strategy",
-      "whats_happening": "New research shows consumers plan to shop in-store more than online this holiday season\u2014and they're explicitly stating they don't expect innovation. They want retailers to \"get the basics right.\" Store operations, inventory accuracy, and omnichannel consistency now deliver more ROI than elaborate in-store experiences or experiential marketing plays.",
-      "so_what": "If you've been chasing the next big experience idea, stop. Tighten fulfillment, fix inventory visibility, and make sure your team can execute consistently across locations. Execution beats innovation this cycle."
+      "headline": "Google Will Measure Your Instagram and TikTok Content Like Search Traffic",
+      "tag": "\ud83d\udcca Data & Measurement",
+      "whats_happening": "Google rolled out Platform Properties to all Search Console users. Connect your Instagram, TikTok, YouTube, or X accounts and you'll see clicks, impressions, and search queries those posts generate in Google Search\u2014same data structure as any web page. For the first time, you can prove whether a TikTok video or Instagram Reel earned visibility on Google. This isn't aspirational. It's live. Social video now competes on measurable ground with blog posts and landing pages.",
+      "so_what": "If you're already producing social content, connect your accounts to Search Console this week. Track what formats and topics earn search distribution. If you're not producing social video yet, you're missing a channel Google now considers a search result."
+    },
+    {
+      "headline": "Google Ads Force-Migrates to AI Max on September 1\u2014No Opt-Out",
+      "tag": "\ud83e\udd16 AI & Tools",
+      "whats_happening": "Any Google Search campaign using campaign-level broad match or auto-generated assets will be automatically converted to AI Max on September 1. Google is also phasing out Dynamic Search Ads entirely. This is the third major force-migration in a year, cementing AI-driven campaign automation as non-negotiable. Regional operators who've been using broad match for simplicity should audit campaigns before the deadline and review cost-per-acquisition settings immediately after migration. The automation isn't optional anymore.",
+      "so_what": "Review your broad match campaigns before September 1. Make sure your conversion tracking is clean and your CPA targets are explicit. If you wait until after the migration to notice performance drift, you'll burn budget figuring out what changed."
+    },
+    {
+      "headline": "Meta Rolls Out WhatsApp Purchase Flows\u2014Checkout Without Leaving the App",
+      "tag": "\ud83d\udcf1 Channel Update",
+      "whats_happening": "Meta's new Business Agent runs full purchase flows inside WhatsApp: inventory checks, lead qualification, and checkout all happen in a single thread. WhatsApp also added business search so customers can find you without leaving the app. Meta is billing the Business Agent at $2.00 per million tokens (roughly 4\u20135 cents per reply). For the first time, an entire purchase journey can happen off your website. This isn't experimental\u2014Love's Travel Stops already has 20 CPG brand partnerships in its first year of retail media network operations, with pump screens, in-store signage, and push notifications all monetized. WhatsApp just became another ad surface.",
+      "so_what": "If you're in a booking-heavy vertical (appointments, reservations, lead-based sales), test WhatsApp Business Agent as a conversion channel this quarter. It's not replacing your website, but it might convert better for mobile-first customers who hate filling out forms."
     }
   ],
-  "this_weeks_take": "The convergence is here. AI agents are deciding purchases based on data quality, Google is measuring social media as a search channel, and shoppers are walking into stores expecting operational fundamentals\u2014not tech-forward experiences. The winners this fall won't be the ones with the biggest budgets. They'll be the ones with the cleanest feeds, the tightest execution, and the most relevant messaging."
+  "this_weeks_take": "The theme is distribution fragmentation. Your content is being measured, recommended, and sold across platforms you didn't plan for. The retailers who treat Yelp profiles, product feeds, and social content as operational requirements\u2014not nice-to-haves\u2014are the ones AI will recommend. The ones still treating these as 'marketing someday' projects will wonder where their traffic went."
 }
